@@ -33,9 +33,9 @@
     - [出入金](#出入金)
 
 ## 交易所
-| [![币安](./logo/bian.png)<br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [![欧意OKX](./logo/okex.png)<br>欧意OKX](https://chouyi.info/join/50253981)    | [![@ByBit](./logo/bybit.png)<br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) |[![@火币](./logo/huobi.png)<br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)|
-|:---:|:---:|:---:|:---:|
-|[![bitget](./logo/bitget.png)<br>bitget](https://www.bitget.com/zh-CN/) |  [![coinbase](./logo/coinbase.png)<br>CoinBase](https://www.coinbase.com/) |[![kraken海妖](./logo/kraken.png)<br>kraken海妖](https://www.kraken.com/)|[![KuCoin](./logo/kucoin.png)<br>KuCoin](https://www.kucoin.com)|
+| [![币安](./logo/bian.png)<br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [![欧意OKX](./logo/okex.png)<br>欧意OKX](https://chouyi.info/join/50253981)    | [![@ByBit](./logo/bybit.png)<br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) |[![@火币](./logo/huobi.png)<br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)|[![bitget](./logo/bitget.png)<br>bitget](https://www.bitget.com/zh-CN/)|
+|:---:|:---:|:---:|:---:|:---:|
+|[![coinbase](./logo/coinbase.png)<br>CoinBase](https://www.coinbase.com/) |[![kraken海妖](./logo/kraken.png)<br>kraken海妖](https://www.kraken.com/)|[![KuCoin](./logo/kucoin.png)<br>KuCoin](https://www.kucoin.com)| [![抹茶MEXC](./logo/mocha.png)<br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG)|[![Gate.io](./logo/gate_io.png)<br>Gate.io](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103) |
 
 ## 交易
 ### K线数据
