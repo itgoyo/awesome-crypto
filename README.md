@@ -1,36 +1,8 @@
-  - [交易所](#交易所)
-  - [交易](#交易)
-    - [K线数据](#k线数据)
-    - [DEX交易所](#dex交易所)
-    - [DEX聚合器](#dex聚合器)
-    - [跨链工具](#跨链工具)
-    - [衍生品交易](#衍生品交易)
-    - [量化交易](#量化交易)
-  - [数据工具](#数据工具)
-    - [综合查询](#综合查询)
-    - [链上数据](#链上数据)
-    - [指数查询](#指数查询)
-    - [TVL查询](#tvl查询)
-    - [实用工具](#实用工具)
-    - [巨鲸追踪](#巨鲸追踪)
-    - [地址监控](#地址监控)
-    - [监控工具](#监控工具)
-    - [混币工具](#混币工具)
-    - [区块链浏览器](#区块链浏览器)
-    - [币种官网](#币种官网)
-  - [NFT](#nft)
-    - [NFT交易](#nft交易)
-  - [元宇宙](#元宇宙)
-    - [DID身份](#did身份)
-  - [新闻媒体](#新闻媒体)
-    - [币圈名人](#币圈名人)
-    - [门户网站](#门户网站)
-  - [空投](#空投)
-    - [IDO/IEO](#idoieo)
-  - [DAO](#dao)
-    - [DAO组织](#dao组织)
-  - [基础工具](#基础工具)
-    - [出入金](#出入金)
+# **导航：** 
+
+[中心化大所](#交易所) | [数据分析](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [新闻媒体](#新闻媒体) | [NFT工具](#nft) | [DAO工具](#dao) | [Defi工具](#交易) | [跨链](#跨链工具) | [加密钱包](#基础工具) | [顶级投资机构](#空投) | [币圈KOL](#币圈名人) | [中文电报群](#新闻媒体) | [英文电报群](#新闻媒体)
+
+**中心化大所**
 
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://chouyi.info/join/50253981) | [<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/) |
