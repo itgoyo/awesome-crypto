@@ -131,3 +131,9 @@
 ---
 
 如需后续教程（比如买币、转账、充提、设置安全等），欢迎留言告诉我！
+
+## 社群链接
+
+[Telegram币安官方中文群](https://t.me/BinanceChinese)
+
+[币安广场](https://www.binance.com/zh-CN/square)
