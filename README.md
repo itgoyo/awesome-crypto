@@ -1,7 +1,7 @@
 <div align="center">
-  <b>🔥 全网最全加密货币资源库,币圈导航站:<a href="https://0xnav.com" target="_blank">0xnav.com</a> 🔥</b>
-</br>
+  <b>🔥 全网最全加密货币资源库,币圈导航站:<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b>
 </div>
+
 
 无论您是区块链新手还是资深玩家，这里提供一站式币圈工具集合，覆盖：
 
