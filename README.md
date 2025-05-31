@@ -849,6 +849,11 @@
 ## 新闻媒体
 ### 币圈名人
 
+**[CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant)**
+    全球最大加密货币交易所创始人、亿万富翁赵长鹏
+
+**[何一](https://x.com/heyibinance)**
+    币圈一姐
 
 **[夏六玥](https://x.com/0x6yue)**
     多次抓住了土狗热点
@@ -920,6 +925,9 @@
 
 **[VitalikButerin](https://x.com/VitalikButerin)**
     vitalik.eth以太坊创始人。    
+
+**[币圈慈善家](https://x.com/VitalikButerin)**
+    话痨博主，不构成投资建议。
 
 ### 门户网站
 
