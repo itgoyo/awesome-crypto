@@ -1,5 +1,5 @@
 <div align="center">
-  <b>🔥 全网最全加密货币资源库,币圈导航站:<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b>
+  <b>🔥 全网最全加密货币资源库,币圈导航站：<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b>
 </div>
 &nbsp;
 
