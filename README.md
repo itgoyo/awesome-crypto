@@ -36,6 +36,8 @@
 | 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)|
 
+![](https://imgur.com/MlRDjeU.png)
+
 ## 交易
 ### K线数据
 **[AstroTools](https://astrotools.io/)**
