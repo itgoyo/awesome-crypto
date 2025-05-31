@@ -1,8 +1,8 @@
 <div align="center">
   <b>🔥 全网最全加密货币资源库,币圈导航站:<a href="https://www.0xnav.com" target="_blank">www.0xnav.com</a> 🔥</b>
 </div>
-
 &nbsp;
+
 ✅ 中心化交易所(CEX)：币安(Binance)、欧易(OKX)、芝麻开门(Gate.io)等官网注册链接（防钓鱼验证）
 
 ✅ 链上数据分析：巨鲸追踪、大额交易监控、代币筹码分布查询工具
