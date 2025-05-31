@@ -33,9 +33,9 @@
     - [出入金](#出入金)
 
 ## 交易所
-| [<img src="./logo/bian.png" width="60" height="60"><br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [<img src="./logo/okex.png" width="60" height="60"><br>欧意OKX](https://chouyi.info/join/50253981) | [<img src="./logo/bybit.png" width="60" height="60"><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="60" height="60"><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="60" height="60"><br>bitget](https://www.bitget.com/zh-CN/) |
+| [<img src="./logo/bian.png" width="90" height="60"><br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [<img src="./logo/okex.png" width="90" height="60"><br>欧意OKX](https://chouyi.info/join/50253981) | [<img src="./logo/bybit.png" width="90" height="60"><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="60"><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="60"><br>bitget](https://www.bitget.com/zh-CN/) |
 |:---:|:---:|:---:|:---:|:---:|
-| [<img src="./logo/coinbase.png" width="60" height="60"><br>CoinBase](https://www.coinbase.com/) | [<img src="./logo/kraken.png" width="60" height="60"><br>kraken海妖](https://www.kraken.com/) | [<img src="./logo/kucoin.png" width="60" height="60"><br>KuCoin](https://www.kucoin.com) | [<img src="./logo/mocha.png" width="60" height="60"><br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG) | [<img src="./logo/gate_io.png" width="60" height="60"><br>Gate.io](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103) |
+| [<img src="./logo/coinbase.png" width="90" height="60"><br>CoinBase](https://www.coinbase.com/) | [<img src="./logo/kraken.png" width="90" height="60"><br>kraken海妖](https://www.kraken.com/) | [<img src="./logo/kucoin.png" width="90" height="60"><br>KuCoin](https://www.kucoin.com) | [<img src="./logo/mocha.png" width="90" height="60"><br>抹茶MEXC](https://promote.mexc.com/r/wIE7fPvG) | [<img src="./logo/gate_io.png" width="90" height="60"><br>Gate.io](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103) |
 
 ## 交易
 ### K线数据
