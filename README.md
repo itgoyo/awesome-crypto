@@ -40,6 +40,28 @@
 **[低资费境外手机卡推荐](./docs/低资费境外手机卡推荐.md)**
     推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡 
 
+**[什么是U卡](./docs/什么是U卡.md)**
+    推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡 
+
+
+
+## 交易
+### K线数据
+**[AstroTools](https://astrotools.io/)**
+    AstroTools 土狗K线
+
+**[Rometerminal](https://app.rometerminal.io/)**
+    DEX 和多 dApp 交易
+
+**[Live Coin Watch](https://www.livecoinwatch.com/)**
+    Live Coin Watch全链K线
+
+**[ibccoin Cosmos](https://www.ibccoin.org/)**
+    ibccoin CosmosK线
+
+**[ChartEX](https://chartex.pro/dashboard)**
+    ChartEX 多链K线行情
+
 
 
 ## 交易
