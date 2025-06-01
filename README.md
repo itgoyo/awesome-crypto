@@ -848,7 +848,7 @@
 
 ## 新闻媒体
 ### 币圈名人
-
+#### twitter
 **[CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant)**
     全球最大加密货币交易所创始人、亿万富翁赵长鹏
 
@@ -928,6 +928,39 @@
 
 **[币圈慈善家](https://x.com/VitalikButerin)**
     话痨博主，不构成投资建议。
+#### youtuber
+**[墨山猫 MØC](https://www.youtube.com/@CryptoMOC)**
+    活在区块链的猫🐈 
+
+**[腦哥 Chill塊鏈](https://www.youtube.com/@brainbrocrypto)**
+    我是一个介绍加密货币科普/投资的人
+
+**[狗狗币大师兄](https://www.youtube.com/@dogebigbrother)**
+    要做大家都能看得懂的视频！如果观众看不懂，视频做再好都没用。
+
+**[225充电站](https://www.youtube.com/@225CDZ)**
+    希望有一天能够发财
+
+**[小天在这里](https://www.youtube.com/@XTZZL)**
+    本频道内容目前均是实仓操作。做有价值的内容，从你看到我的视频开始。
+
+**[BTV_Michael_币链何在](https://www.youtube.com/@BTV_CN)**
+    CEO of BitcoinTV. 25+ Years Media Veteran.
+
+**[以太坊教授幣哥](https://www.youtube.com/@ethbitbrother)**
+    数字货币全职交易员，擅长比特币趋势交易 | K线技术分析 | 套利，偶尔做一下日内短线交易。
+    
+**[Vic TALK](https://www.youtube.com/@victalk6886)**
+    Web3热点项目追踪和经济模型硬核分析
+
+**[加密大漂亮](https://www.youtube.com/@GiantCutie-CH)**
+    资深Web3媒体人｜GC研习社发起人｜6年投研老韭菜｜BTC深挖者,频道专注Web3项目复盘，挖掘早期潜力Alpha项目，保姆级金矿撸毛教程分享，关注大漂亮，财富密码到你家。
+
+**[mrblock 區塊先生](https://www.youtube.com/@mrblocktw)**
+    欢迎来到 mrblock.tw 区块先生 Youtube 频道，我们在这里探索 DeFi、GameFi、NFT 以及各种加密相关新闻。
+
+**[笑笑](https://www.youtube.com/@xiaoxiao369)**
+    一个在币圈摸爬滚打多年的老家伙，见过比特币从“玩具钱”到“数字黄金”的全过程，也踩过山寨币的坑，吃过熊市的土。
 
 ### 门户网站
 
