@@ -29,6 +29,8 @@
 
 ![](https://imgur.com/MlRDjeU.png)
 
+![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
+
 ### 常见问题
 
 **[Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md)**
