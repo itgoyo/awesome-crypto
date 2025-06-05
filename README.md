@@ -8,7 +8,7 @@
 
 # **导航：** 
 
-[交易所](#交易所) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
+[交易所](#交易所) | [空投](#空投) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
 
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=896983517) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.chouyi.pro/zh-hans/join/50253981) | [<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/) |
@@ -30,6 +30,12 @@
 ![](https://imgur.com/MlRDjeU.png)
 
 ![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
+
+## 空投
+
+**[$WUMP](https://wump.xyz/join?ref=703440366489174127)**
+    根据您的 Discord 帐户年龄完成所有的社交任务获得更多。这个玩法很想以前Telegram的$DOGS。https://wump.xyz/join?ref=703440366489174127 
+
 
 ### 常见问题
 
