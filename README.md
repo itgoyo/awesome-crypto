@@ -33,10 +33,6 @@
 
 ## 空投
 
-**[$WUMP](https://wump.xyz/join?ref=703440366489174127)**
-    根据您的 Discord 帐户年龄完成所有的社交任务获得更多。这个玩法很想以前Telegram的$DOGS。https://wump.xyz/join?ref=703440366489174127 
-
-
 ### 常见问题
 
 **[Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md)**
