@@ -33,6 +33,12 @@
 
 ## 空投
 
+**[Binance币安alpha项目参与人数查询](https://litangdingzhen.me)**
+    详细的币安Alpha空投领取情况
+
+**[Binance币安alpha积分查询](https://www.bn-alpha.site/)**
+    填写自己钱包地址，可详细查看当天刷的交易量还有对应的积分数
+
 ### 常见问题
 
 **[Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md)**
