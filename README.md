@@ -31,6 +31,10 @@
 
 ![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
 
+## 聪明人钱包
+**[debot](https://debot.ai?ref=240523)**
+    实时自动检测各个聪明人钱包的买入和卖出情况
+
 ## 空投
 
 **[Binance币安alpha项目参与人数查询](https://litangdingzhen.me)**
