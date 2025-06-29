@@ -35,6 +35,9 @@
 **[debot](https://debot.ai?ref=240523)**
     实时自动检测各个聪明人钱包的买入和卖出情况
 
+**[GMGN](https://t.me/gmgnaibot?start=i_L2wVVjGF)**
+    GMGN 是加密货币领域最强大的数据分析平台
+
 ## 空投
 
 **2025-06-28 更新目前刷交易量最稳定的是交易所的BR的限价买限价卖，1025U磨损大概0.2u**
@@ -44,14 +47,6 @@
 
 **[Binance币安alpha积分查询](https://www.bn-alpha.site/)**
     填写自己钱包地址，可详细查看当天刷的交易量还有对应的积分数
-
-### 空投
-| 名字       | 链接                                                                 | 项目 述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|NEARProtocol                           | [@NEARProtocol](https://x.com/0xnav_com/status/1938175351282405728)          | 前 100 名内容创作者将瓜分 10 万美金奖金，活动截止到 9 月底。     |
-|MemeX                           | [@MemeX](https://x.com/0xnav_com/status/1938790948055720005)          | 时间：6.27-7.24  奖金：70万美金 📷 奖励前500名     |
-|wardenprotocol| [@wardenprotocol](https://x.com/0xnav_com/status/1938266533350019483)          |在@KaitoAI上热度飙升🔥明牌空投 = 下半年最有可能的大毛之一！   |
-|Anoma                             | [@Anoma](https://x.com/0xnav_com/status/1938231590271988208)          | Anoma 登顶 Kaito AI Yapper 榜单 1D 第一，在 Pre-TGE Mindshare Arena 中以 6.04% Mindshare 遥遥领先，展现出强劲的市场影响力。   |
 
 ### 常见问题
 
