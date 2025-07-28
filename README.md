@@ -1193,6 +1193,9 @@
 **[OneKey Card](https://card.onekey.so/?i=EZAMM3)**
     OneKey虚拟VISA卡，可充值消费USDT
 
+**[Bybit Card](https://www.bybit.com/zh-MY/cards/)**
+    Bybit虚拟卡，可充值消费USDT，可以某宝弄个假的德国账单地址即可开通，消费有返现非常推荐
+
 ## 社交媒体
 
 ### 各大板块重要Twitter账号
