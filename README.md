@@ -12,7 +12,7 @@
 
 ## 科学上网工具
 
-- [vpnnav.github.io](vpnnav.github.io)
+- [vpnnav.github.io](https://vpnnav.github.io)
 
 请注意，以上工具仅供学习使用若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任
 
