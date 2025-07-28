@@ -25,9 +25,9 @@
 
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=896983517)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
+| 币安    |   [https://www.binance.com](https://www.marketwebb.net/activity/referral-entry/CPA?ref=CPA_00QX29JJW5&utm_source=Lite_web_account)   | 币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)|
+| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)|
 | Bitget    |   [https://www.bitget.com](https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)   |      Bitget交易所(减免40%手续费)|
 | Gate.io    |   [https://www.gatesee.com](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103)   |     Gate.io交易所(减免40%手续费)|
 | 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)|
@@ -37,14 +37,30 @@
 
 ![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
 
+## 聪明人钱包
+**[debot](https://debot.ai?ref=240523)**
+    实时自动检测各个聪明人钱包的买入和卖出情况
+
+**[GMGN](https://t.me/gmgnaibot?start=i_L2wVVjGF)**
+    GMGN 是加密货币领域最强大的数据分析平台
+
 ## 空投
 
+<<<<<<< HEAD
 ### 币安Alpha
 
 币安Binance交易所推出来的活动，只要刷满指定的交易量，就会获得对应的积分，拥有积分之后那么就可以用来抢空投，基本每个币安账号一个月都能挣几千块左右，当然号越多赚越多，这也就是为什么有很多工作室在刷这个的原因
 
 活动介绍：https://www.0xnav.com/260.html
+=======
+2025-7月，交易所限价快速点击右边的价格直接买卖享受交易量x4。
+>>>>>>> 0e8ece9cea25b120e29fc074c4a65a94f14d99d8
 
+**[Binance币安alpha项目参与人数查询](https://litangdingzhen.me)**
+    详细的币安Alpha空投领取情况
+
+**[Binance币安alpha积分查询](https://www.bn-alpha.site/)**
+    填写自己钱包地址，可详细查看当天刷的交易量还有对应的积分数
 
 ### 常见问题
 
