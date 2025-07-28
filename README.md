@@ -67,16 +67,24 @@
 
 ### 基础知识
 **[对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)**
+
 **[Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0)**
+
 **[Web3.0漫游指南](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc)**
+
 **[Web3.0通识课](https://j08v3n7cqq.feishu.cn/wiki/FWvxwnoJgiyDvck6W8pc19xKnUg)**
+
 **[Crypto军火库](https://aiyanxishe.feishu.cn/wiki/PrGMwbJKPiz9eukV5YLcGTnwnPC)**
+
 **[慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)**
 
 ### 白皮书
 **[比特币白皮书](https://bitcoin.org/bitcoin.pdf)**
+
 **[以太坊白皮书](https://ethereum.org/en/whitepaper/)**
+
 **[Uniswap V2 白皮书](https://uniswap.org/whitepaper.pdf)**
+
 **[Uniswap V3 白皮书](https://uniswap.org/whitepaper-v3.pdf)**
 
 ### 区块链相关学习资源
