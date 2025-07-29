@@ -1401,7 +1401,8 @@
 | 交易所     | [Pionex 中文](https://t.me/PionexCN)                          | 官方         | Pionex 网格交易      |
 | 交易所     | [OKX API 中文](https://t.me/OKX_API_CN)                       | 技术         | OKX API 讨论       |
 | 交易所     | [Deribit 中文](https://t.me/DeribitCN)                        | 衍生品        | Deribit 期权交流     |
-| DeFi    | [DeFiCN](https://t.me/DeFiCN)                               | DeFi       | 综合 DeFi 讨论       |
+| 监控通知   | [Alpha Alert](https://t.me/bnalpha666)                        | 监控通知        | 币安Alpha空投通知    |
+| 监控通知    | [刷分池监控](https://t.me/alpha_pool_monitor)                               | 监控通知       | 刷分池监控,避免价格突然暴跌      |
 | DeFi    | [Uniswap 中文](https://t.me/UniswapCN)                        | DEX        | Uniswap 使用与治理    |
 | DeFi    | [Aave 中文](https://t.me/AaveCN)                              | 借贷         | Aave 借贷协议        |
 | DeFi    | [Curve 中文](https://t.me/CurveFinanceCN)                     | 稳定币        | Curve 流动性        |
