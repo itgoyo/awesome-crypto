@@ -87,6 +87,9 @@
 
 **[Uniswap V3 白皮书](https://uniswap.org/whitepaper-v3.pdf)**
 
+### 推荐
+**[区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)**
+
 ### 区块链相关学习资源
 - [Coursera Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) - Coursera 上的区块链基础课程
 - [Conflux 中文区块链论坛](https://forum.conflux.fun/c/Chinese) - Conflux 论坛的中文区
@@ -1402,7 +1405,7 @@
 | 交易所     | [OKX API 中文](https://t.me/OKX_API_CN)                       | 技术         | OKX API 讨论       |
 | 交易所     | [Deribit 中文](https://t.me/DeribitCN)                        | 衍生品        | Deribit 期权交流     |
 | 监控通知   | [Alpha Alert](https://t.me/bnalpha666)                        | 监控通知        | 币安Alpha空投通知    |
-| 监控通知    | [刷分池监控](https://t.me/alpha_pool_monitor)                               | 监控通知       | 刷分池监控,避免价格突然暴跌      |
+| 监控通知    | [刷分池监控](https://t.me/alpha_pool_monitor)                               | 监控通知       | 刷分池监控,避免价格突然暴跌∏∏      |
 | DeFi    | [Uniswap 中文](https://t.me/UniswapCN)                        | DEX        | Uniswap 使用与治理    |
 | DeFi    | [Aave 中文](https://t.me/AaveCN)                              | 借贷         | Aave 借贷协议        |
 | DeFi    | [Curve 中文](https://t.me/CurveFinanceCN)                     | 稳定币        | Curve 流动性        |
