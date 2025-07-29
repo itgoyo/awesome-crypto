@@ -133,6 +133,15 @@
 - [Wagmi](https://wagmi.sh/) - 提供 React Hooks 风格 API 的智能合约交互库
 - [RainbowKit](https://www.rainbowkit.com/zh-CN/docs/introduction) - 用于构建 Web3 钱包连接界面的库，支持 React
 
+### 虚拟加密货币数据分析工具
+- **[非小号](https://www.feixiaohao.co/)** - 国内行情工具，覆盖币种信息、交易所动态
+- **[金十数据](https://www.jin10.com/)** - 金十数据致力于成为国内专业的财经新闻软件和交易工具
+- **[金色财经](https://www.jinse.cn)** - 客观、公正、全面的资讯平台，紧盯互联网技术落地应用、突发事件、热门话题、政策跟进等
+- **[CoinMarketCap](https://coinmarketcap.com/zh/)** - 最全面的加密货币数据分析平台
+- **[Coingecko](https://www.coingecko.com/)** - 提供项目评分和综合排序，便于评估项目
+- **[比特币巨鲸追踪](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html)** - 追踪比特币前100富有地址
+- **[以太坊钱包追踪](https://www.whalestats.com/)** - 前1000大以太坊钱包持仓分析
+- **[NFTGo](https://nftgo.io)** - NFT巨鲸追踪工具，分析交易趋势
 
 ## 交易
 ### K线数据
