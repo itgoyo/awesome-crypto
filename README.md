@@ -45,6 +45,14 @@
 
 活动介绍：https://www.0xnav.com/260.html
 
+### 币安Alpha查询网站
+- [AlphaHub](https://bnalphahub.com/) - 免费多钱包币安alpha交易积分查询工具
+- [币安Alpha空投日历](https://alpha123.uk/zh/index.html) - 实时监控币安Alpha项目空投
+- [胖大星-空投查询](https://pangdaxing.xyz/) - 实时监控币安Alpha项目空投
+- [Alpha Bot](https://new.alphabot.cm/) - Alpha交易量钱包查询
+- [Alpha.DOG](https://alpha.dog/) - Alpha交易量钱包查询
+- [BSC USDT 统计分析工具](https://sincitysh.github.io/bscalpha/usdt-analyzer.html) - BSC USDT 统计分析工具
+
 
 ### 常见问题
 
