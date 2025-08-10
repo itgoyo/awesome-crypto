@@ -151,6 +151,31 @@
 - **[以太坊钱包追踪](https://www.whalestats.com/)** - 前1000大以太坊钱包持仓分析
 - **[NFTGo](https://nftgo.io)** - NFT巨鲸追踪工具，分析交易趋势
 
+### 20个投研工具
+| 序号 | 项目           | 链接                                                   | 备注               |
+| ---- | -------------- | ------------------------------------------------------ | ------------------ |
+| 1    | Chaineye       | [https://chaineye.tools/cexFee](https://chaineye.tools/cexFee) | CEX提币费用查询    |
+| 2    | Chainlist      | [https://chainlist.org](https://chainlist.org)         | 添加区块链网络     |
+| 3    | Coinmarketcap  | [https://coinmarketcap.com](https://coinmarketcap.com) | 代币信息查询       |
+| 4    | Chaineye       | [https://chaineye.tools](https://chaineye.tools)       | 跨链桥对比分析     |
+| 5    | Debank         | [https://debank.com](https://debank.com)               | EVM钱包数据查询    |
+| 6    | Defillama      | [https://defillama.com/airdrops](https://defillama.com/airdrops) | 钱包空投信息聚合   |
+| 7    | Dexscreener    | [https://dexscreener.com](https://dexscreener.com)     | 多链DEX行情监测    |
+| 8    | Dune           | [https://dune.com/home](https://dune.com/home)         | 链上数据分析       |
+| 9    | Defillama      | [https://defillama.com](https://defillama.com)         | DeFi数据分析       |
+| 10   | Flipsidecrypto | [https://flipsidecrypto.xyz/home/](https://flipsidecrypto.xyz/home/) | 链上数据分析       |
+| 11   | Layerhub       | [https://layerhub.xyz](https://layerhub.xyz)           | Layer2数据分析     |
+| 12   | L2beat         | [https://12beat.com/scaling/summary](https://12beat.com/scaling/summary) | Layer2数据概览     |
+| 13   | OKX            | [https://okx.com/zh-hans/web3/faucet](https://okx.com/zh-hans/web3/faucet) | 领取测试代币       |
+| 14   | Sonar          | [https://sonar.watch](https://sonar.watch)             | SOL钱包数据查询    |
+| 15   | Tokenomist     | [https://tokenomist.ai](https://tokenomist.ai)         | 代币解锁信息       |
+| 16   | Icoanalytics   | [https://icoanalytics.org](https://icoanalytics.org)   | 即将上线项目信息   |
+| 17   | Nansen         | [https://app.nansen.ai](https://app.nansen.ai)         | 链上数据分析       |
+| 18   | Revoke         | [https://revoke.cash/zh](https://revoke.cash/zh)       | 取消授权管理       |
+| 19   | Etherscan      | [https://etherscan.io/gastracker](https://etherscan.io/gastracker) | 以太坊gas费查询   |
+| 20   | Rootdata       | [https://rootdata.com/zh](https://rootdata.com/zh)     | 项目融资信息       |
+  
+
 ## 交易
 ### K线数据
 **[AstroTools](https://astrotools.io/)**
