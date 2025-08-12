@@ -55,54 +55,114 @@
 
 
 ### 常见问题
-
-**[Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md)**
-    详细的币安交易所注册流程指南，包含注册步骤、邀请码使用、手续费减免等完整教程
-
-**[币安身份验证KYC完整指南：常见问题及解决方案](./docs/币安身份验证完整指南：常见问题及解决方案.md)**
-    币安KYC身份验证详细教程，涵盖常见问题及解决方案，帮助用户顺利完成身份认证
-
-**[低资费境外手机卡推荐](./docs/低资费境外手机卡推荐.md)**
-    推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡 
-
-**[什么是U卡](./docs/什么是U卡.md)**
-    系统讲清楚 U 卡的概念、原理、类型、用途与风险，适合所有数字货币从业者/爱好者阅读
-
-**[币圈入门生存指南](./docs/币圈入门生存指南.md)**
-    币圈不是暴富捷径，而是高风险高波动的金融丛林**持续学习 + 安全意识 + 情绪控制** 是你在这片“暗黑森林”里活下去的底层逻辑
+- [Binance币安交易所注册教程](./docs/Binance币安交易所注册教程.md) - 详细的币安交易所注册流程指南，包含注册步骤、邀请码使用、手续费减免等完整教程  
+- [币安身份验证KYC完整指南：常见问题及解决方案](./docs/币安身份验证完整指南：常见问题及解决方案.md) - 币安KYC身份验证详细教程，涵盖常见问题及解决方案，帮助用户顺利完成身份认证  
+- [低资费境外手机卡推荐](./docs/低资费境外手机卡推荐.md) - 推荐常见的各类低资费境外手机卡，各种卡月租情况，综合分析最合适自己的境外手机卡  
+- [什么是U卡](./docs/什么是U卡.md) - 系统讲清楚 U 卡的概念、原理、类型、用途与风险，适合所有数字货币从业者/爱好者阅读  
+- [币圈入门生存指南](./docs/币圈入门生存指南.md) - 币圈不是暴富捷径，而是高风险高波动的金融丛林**持续学习 + 安全意识 + 情绪控制** 是你在这片“暗黑森林”里活下去的底层逻辑  
 
 ## Web3
 
 ### 基础知识
-**[对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html)**
+- [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html) - Web3.0 概念与发展梳理
+- [Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0) - Web3.0 相关概念百科
+- [Web3.0漫游指南](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc) - Web3.0 学习与探索指南
+- [Web3.0通识课](https://j08v3n7cqq.feishu.cn/wiki/FWvxwnoJgiyDvck6W8pc19xKnUg) - Web3.0 基础通识课程
+- [Crypto军火库](https://aiyanxishe.feishu.cn/wiki/PrGMwbJKPiz9eukV5YLcGTnwnPC) - 区块链与加密技术工具资源
+- [慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base) - 慢雾安全团队的区块链安全知识库
+- [learn-web3](https://web3.career/learn-web3) - 学习web3的英文资料 【推荐】
+- [useweb3](https://www.useweb3.xyz/) - 专为web3开发者搭建学习的平台 英文 【推荐】
+- [inrupt 博客](https://www.inrupt.com/blog) - inrupt 官方博客
+- [blockchainhub 博客](https://blockchainhub.net/) - 区块链资讯与资源分享
+- [diode区块链博客专区](https://diode.io/blog/tags.html#blockchain) - diode 区块链相关文章
+- [30天成为web3开发者](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer) - web3 开发者成长路线
+- [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) - 从原理上介绍比特币协议实际工作方式
+- [【深度知识】25种区块链共识算法全面详解](https://cloud.tencent.com/developer/article/1669859) - 区块链共识算法详解
+- [以太坊学习路线和资源汇总](https://learnblockchain.cn/article/3682) - 以太坊学习资源集合
+- [定义web3的技术栈](https://github.com/fltenwall/web3-school/blob/main/%E5%AE%9A%E4%B9%89web3%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88.md) - web3 技术栈定义
+- [以太坊的JavaScript API —— web3.js](https://juejin.cn/post/7088716205984317471) - web3.js 详解
+- [2022年web3和Solidity开发完全指引](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) - web3 与 Solidity 开发指南 【推荐】
+- [medium web3博客专栏](https://medium.com/theweb3stack) - Medium 上的 web3 专栏
+- [Web 3.0系列博客](https://blog.idrisolubisi.com/series/web-3) - Web 3.0 主题系列文章
+- [consensys上的web3博客专栏](https://consensys.net/blog/) - Consensys 官方博客
+- [学堂在线-区块链和加密数字货币](https://www.xuetangx.com/course/thu12021002731/10333144?channel=i.area.learn_title) - 区块链课程在线学习
+- [阮一峰 为什么 Web3 与区块链有关](https://www.ruanyifeng.com/blog/2021/12/web3.html) - 阮一峰对 Web3 和区块链的解读
+- [当区块链遇上Rust](https://rustcc.cn/article?id=289da7be-19ce-49fe-af6d-3a7946404ca6) - Rust 与区块链结合探讨
+- [一文读懂 Web3：互联网发展的新时代还是骗局？](https://mp.weixin.qq.com/s/uATmDWPaZVQpOCT-qOjgfw) - Web3 解析文章
+- [当我们谈Web3.0时，我们谈些什么](https://www.jianshu.com/p/58642fd43815) [【文章备份】](https://github.com/fltenwall/web3-awesome/blob/main/%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0-Good%20Articles/%E6%80%9D%E8%80%83%E7%AF%87/%E5%BD%93%E6%88%91%E4%BB%AC%E8%)
+- [Understanding the IPFS White Paper](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) - 理解IPFS白皮书
+- [学习web3的最佳资源](https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/) - Web3最佳学习资源
+- [去中心化应用的通用理论](https://github.com/DavidJohnstonCEO/DecentralizedApplications) - 去中心化应用理论
+- [作为一名开发者如何进入区块链、密码学、web3领域](https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/amp/) - 开发者入门指南
+- [web3终极指南](https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/) - Web3全面指南
+- [如何进入加密领域？2022年写给web3开发者的路线图](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869) - 2022加密领域路线图
+- [分布式 & web3开发者路线图](https://gitcoin.co/grants/3150/defi-developer-roadmap) - 开发者路线图
+- [web3.0: 开发者入门的路线、指南、资源](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) - Web3开发者资源 视频
+- [学习web3的19关](https://rattibha.com/thread/1439980837899055108?lang=en) - Web3学习关卡
+- [进入web3, 加密数字货币，以太坊，区块链开发需要的五个工具](https://betterprogramming.pub/transform-into-a-web3-crypto-nft-and-blockchain-development-expert-5-resources-8fdd11037eb8) - 开发必备工具
+- [web3最好的资源-区块链，加密数字货币，以太坊，DAOs和元宇宙](https://townhall.hashnode.com/best-web3-resources) - Web3资源汇总
+- [使用Cloudflare开发Web3应用](https://blog.cloudflare.com/get-started-web3/) - Cloudflare Web3开发（支持中文）
+- [以太坊是如何工作的?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369) - 以太坊工作原理
+- [智能合约的思考 1997年Nick Szabo所写](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html) - 智能合约起源思考
+- [”加密货币”的思考](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d) - 加密经济学思考
+- [创建智能合约的流行编程语言](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f) - 智能合约语言介绍
+- [智能合约的开发语言](https://ethereum.org/en/developers/docs/smart-contracts/languages/) - 官方智能合约语言
+- [开发区块链的最佳语言](https://moralis.io/best-languages-for-blockchain-development-full-tutorial/) - 区块链开发语言推荐
+- [使用web3.js开发以太坊区块链](https://blog.logrocket.com/ethereum-blockchain-development-using-web3-js/) - web3.js 开发教程
+- [区块链和智能合约学习资源](https://github.com/Xel/Blockchain-stuff) - 学习资源汇总
+- [如何使用Rust开发和部署智能合约](https://learn.figment.io/tutorials/write-and-deploy-a-smart-contract-on-near) - Rust智能合约开发
+- [为什么使用Rust编写智能合约](http://troubles.md/why-write-smart-contracts-in-rust/) - Rust优势解析
+- [使用React, Solidity, 和 Web3.js开发一个Real-World dApp](https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955) - 实战dApp开发
+- [以太坊开发部署完全去中心化Dapp终极指南](https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - 终极去中心化dApp指南
+- [使用web3.js开发以太坊DApp教程](https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/) - web3.js dApp开发教程
 
-**[Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0)**
-
-**[Web3.0漫游指南](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc)**
-
-**[Web3.0通识课](https://j08v3n7cqq.feishu.cn/wiki/FWvxwnoJgiyDvck6W8pc19xKnUg)**
-
-**[Crypto军火库](https://aiyanxishe.feishu.cn/wiki/PrGMwbJKPiz9eukV5YLcGTnwnPC)**
-
-**[慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)**
 
 ### 白皮书
-**[比特币白皮书](https://bitcoin.org/bitcoin.pdf)**
+- [比特币白皮书](https://bitcoin.org/bitcoin.pdf) - Bitcoin: A Peer-to-Peer Electronic Cash System
+- [以太坊白皮书](https://ethereum.org/en/whitepaper/) - Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform
+- [Uniswap V2 白皮书](https://uniswap.org/whitepaper.pdf) - Uniswap V2 协议设计与原理
+- [Uniswap V3 白皮书](https://uniswap.org/whitepaper-v3.pdf) - Uniswap V3 协议设计与改进
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - 比特币白皮书：一种点对点的匿名货币交易系统
+- [以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) - 以太坊白皮书：下一代智能合约和去中心化应用平台
+- [IPFS - Content Addressed, Versioned, P2P File System](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) - IPFS - 内容寻址，版本化，P2P文件系统
+- [Hedera: A Governing Council & Public Hashgraph Network](https://www.hedera.com/whitepaper/)
+- [Chainlink 2.0白皮书](https://chain.link/whitepaper) [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/whitepaper-v2.pdf)
+- [白皮书数据库](https://whitepaperdatabase.com/category/whitepapers/) 【推荐】
 
-**[以太坊白皮书](https://ethereum.org/en/whitepaper/)**
 
-**[Uniswap V2 白皮书](https://uniswap.org/whitepaper.pdf)**
-
-**[Uniswap V3 白皮书](https://uniswap.org/whitepaper-v3.pdf)**
 
 ### 推荐
-**[区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)**
+- [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md) - 慢雾团队编写的区块链安全防护与自救指南
+
 
 ### 区块链相关学习资源
 - [Coursera Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) - Coursera 上的区块链基础课程
 - [Conflux 中文区块链论坛](https://forum.conflux.fun/c/Chinese) - Conflux 论坛的中文区
 - [Microsoft Blockchain Development Introduction](https://learn.microsoft.com/zh-cn/training/paths/ethereum-blockchain-development/) - 微软提供的区块链开发入门课程
 - [MIT Blockchain Course](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/) - MIT 提供的关于区块链的课程
+- [区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition) - 区块链技术概述与入门 【推荐】
+- [区块链钱包从入门到精通](https://github.tokenpocket.pro/BlockchainGuideSeries/) - 区块链钱包使用与原理 【推荐】
+- [廖雪峰-区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968) - 廖雪峰的区块链入门教程
+- [区块链技术-智能合约Solidity编程语言](https://solidity.tryblockchain.org/) - Solidity 编程语言入门
+- [区块链与密码学（32学时）武汉大学-课件](https://github.com/fltenwall/web3-awesome/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6%EF%BC%8832%E5%AD%A6%E6%97%B6%EF%BC%89%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6-%E8%AF%BE%E4%BB%B6) - 武汉大学区块链与密码学课程课件 【推荐】
+- [元宇宙-数字产权-区块链](https://chain.baklib-free.com/) - 元宇宙与数字产权的区块链应用
+- [以太坊维基百科](https://eth.wiki/) - 以太坊官方 Wiki（英文）
+- [以太坊知识库](https://learnblockchain.cn/eth/) - 以太坊技术与生态知识库 【推荐】
+- [Eth2 展望和分享](https://hackmd.io/@benjaminion) - Eth2 发展前景与技术讨论
+- [以太坊的指南针](https://ethbook.abyteahead.com/index.html) - 以太坊入门指南
+- [以太坊中文文档](https://www.kancloud.cn/qq393855529/ethereum/837511) - 以太坊中文文档
+- [以太坊开发文档](https://ethereum.org/zh/developers/docs/) - 官方以太坊开发者文档
+- [Solidity中文文档](https://learnblockchain.cn/docs/solidity/index.html) - Solidity 编程语言中文文档
+- [Solidity开发智能合约实例](https://solidity-by-example.org/) - Solidity 智能合约示例（英文）
+- [编游戏的同时学习以太坊 DApp 开发](https://cryptozombies.io/zh/) - 通过游戏学习 DApp 开发
+- [慢雾科技的安全技术探究](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4ODQ3NTM2OA==&action=getalbum&album_id=1378653641065857025&scene=173&from_msgid=2247494336&from_itemidx=1&count=3&nolastread=1#wechat_redirect) - 慢雾科技安全漏洞分析报告
+- [immunefi 智能合约安全的教程](智能合约安全的教程) - 智能合约安全培训（英文）
+- [用Go来做以太坊开发](https://goethereumbook.org/zh/) - Go 语言以太坊开发教程
+- [以太坊设计与实现](https://learnblockchain.cn/books/geth/) - 以太坊 Geth 源码解析 【进阶推荐】
+- [Go语言的区块链开发指南](https://github.com/miguelmota/ethereum-development-with-go-book) - Go 语言以太坊开发指南（英文开源书）
+- [精通区块链](https://github.com/ethereumbook/ethereumbook) - 精通以太坊（英文开源书）
+
 
 ###  其他综合学习资源
 - [Continuum](https://continuum.xyz/) - 通过学习 Web3 基础获得 NFT 奖励的学习平台
@@ -128,6 +188,12 @@
 - [WTF Academy](https://wtf.academy/) - 从 Solidity 基础到进阶的课程
 - [LearnWeb3.io](https://learnweb3.io/) - Web3 学习网站
 - [Pointer](https://www.pointer.gg/) - 同样是 Web3 学习网站
+- [stacks-network](https://github.com/stacks-network) - 比特币智能合约
+- [smartcontractkit](https://github.com/smartcontractkit) - 智能合约组织
+- [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - 智能合约安全最佳实践
+- [smart-contracts](https://github.com/TokenMarketNet/smart-contracts) - 用于证券和公用事业代币的以太坊智能合约
+- [remix-project](https://github.com/ethereum/remix-project) - 用来开发、编译、部署智能合约的IDE
+
 
 ### 官方文档
 - [Solidity 官方文档](https://docs.soliditylang.org/en/) - 智能合约编程语言
@@ -141,15 +207,59 @@
 - [Wagmi](https://wagmi.sh/) - 提供 React Hooks 风格 API 的智能合约交互库
 - [RainbowKit](https://www.rainbowkit.com/zh-CN/docs/introduction) - 用于构建 Web3 钱包连接界面的库，支持 React
 
+### 大学公开课
+- [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?spm_id_from=333.337.search-card.all.click) - 北京大学肖臻老师的区块链技术与应用公开课 【推荐】
+- [【麻省理工大学公开课】区块链与货币](https://www.bilibili.com/video/BV1sL411N7Mm?spm_id_from=333.337.search-card.all.click) - 麻省理工大学区块链与货币公开课
+- [【麻省理工】区块链与金钱-中英字幕](https://www.bilibili.com/video/BV19q4y1B7RZ?spm_id_from=333.337.search-card.all.click) - 麻省理工区块链与金钱课程（中英字幕）
+- [【MIT公开课】S12 区块链与金钱](https://www.bilibili.com/video/BV1pK4y1r7Jf?spm_id_from=333.337.search-card.all.click) - MIT S12 区块链与金钱公开课
+- [清华大学“区块链”公开课](https://www.bilibili.com/video/BV1qb41187Ri?spm_id_from=333.337.search-card.all.click) - 清华大学区块链公开课
+- [普林斯顿公开课 《比特币与加密货币技术》区块链技术](https://www.bilibili.com/video/BV1H4411Q7rw?spm_id_from=333.337.search-card.all.click) - 普林斯顿大学比特币与加密货币技术课程
+
+### 培训机构
+- [尚硅谷区块链全套教程完整版（深入掌握以太坊核心技术）](https://www.bilibili.com/video/BV1NJ411D7rf?spm_id_from=333.337.search-card.all.click) - 尚硅谷以太坊核心技术全套教程
+- [尚硅谷2018区块链开发全套课程](https://www.bilibili.com/video/BV1xA411p7C7?spm_id_from=333.337.search-card.all.click) - 尚硅谷2018年区块链开发全套课程
+- [尚硅谷区块链项目硅谷拍卖系统](https://www.bilibili.com/video/BV1EJ411D7SL?spm_id_from=333.337.search-card.all.click) - 尚硅谷区块链拍卖系统实战项目
+- [兄弟连2020区块链技术开发入门到精通视频教程](https://www.bilibili.com/video/BV13s411N7Ps?spm_id_from=333.337.search-card.all.click) - 兄弟连区块链开发入门到精通课程
+- [千峰教育2020年GO语言+区块链 VIP就业班](https://www.bilibili.com/video/BV1e54y1Q7mp?spm_id_from=333.337.search-card.all.click) - 千峰教育 Go语言+区块链就业班
+- [博学谷2021年区块链课程](https://www.bilibili.com/video/BV16b4y1p7W8?p=4) - 博学谷区块链开发课程
+- [火链学院2019年《Go语言+区块链工程师》](https://www.bilibili.com/video/BV1pv411z7RK?spm_id_from=333.337.search-card.all.click) - 火链学院 Go语言+区块链工程师课程
+
+### 油管区块链
+- [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) - Web3 技术与分享频道
+- [GoldSilver (w/ Mike Maloney)](https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ) - 区块链与金融主题频道
+- [Decentralize Everything](https://youtu.be/WSN5BaCzsbo) - 区块链创始人 Vitalik Buterin 访谈视频
+- [Tim Berners-Lee: The next Web of open, linked data](https://youtu.be/OM6XIICm_qo) - 蒂姆·伯纳斯-李谈下一代开放互联数据网络
+- [What Exactly is Web3?](https://www.youtube.com/watch?v=l44z35vabvA) - Juan Benet 的 Web3 演讲
+- [What is Hedera Hashgraph?](https://youtu.be/MzWiiOLv96I) - Dr. Leemon Baird 对 Hedera Hashgraph 的介绍
+- [Why Ethereum is Going to Change the World](https://youtu.be/lYJymzsdXmU) - Joseph Lubin 访谈：为什么以太坊能改变世界
+
+
 ### 虚拟加密货币数据分析工具
-- **[非小号](https://www.feixiaohao.co/)** - 国内行情工具，覆盖币种信息、交易所动态
-- **[金十数据](https://www.jin10.com/)** - 金十数据致力于成为国内专业的财经新闻软件和交易工具
-- **[金色财经](https://www.jinse.cn)** - 客观、公正、全面的资讯平台，紧盯互联网技术落地应用、突发事件、热门话题、政策跟进等
-- **[CoinMarketCap](https://coinmarketcap.com/zh/)** - 最全面的加密货币数据分析平台
-- **[Coingecko](https://www.coingecko.com/)** - 提供项目评分和综合排序，便于评估项目
-- **[比特币巨鲸追踪](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html)** - 追踪比特币前100富有地址
-- **[以太坊钱包追踪](https://www.whalestats.com/)** - 前1000大以太坊钱包持仓分析
-- **[NFTGo](https://nftgo.io)** - NFT巨鲸追踪工具，分析交易趋势
+- [非小号](https://www.feixiaohao.co/) - 国内行情工具，覆盖币种信息、交易所动态  
+- [金十数据](https://www.jin10.com/) - 金十数据致力于成为国内专业的财经新闻软件和交易工具  
+- [金色财经](https://www.jinse.cn) - 客观、公正、全面的资讯平台，紧盯互联网技术落地应用、突发事件、热门话题、政策跟进等  
+- [CoinMarketCap](https://coinmarketcap.com/zh/) - 最全面的加密货币数据分析平台  
+- [Coingecko](https://www.coingecko.com/) - 提供项目评分和综合排序，便于评估项目  
+- [比特币巨鲸追踪](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html) - 追踪比特币前100富有地址  
+- [以太坊钱包追踪](https://www.whalestats.com/) - 前1000大以太坊钱包持仓分析  
+- [NFTGo](https://nftgo.io) - NFT巨鲸追踪工具，分析交易趋势  
+- [以太坊基金会博客](https://blog.ethereum.org/) - 官方以太坊基金会发布的博客，内容涵盖最新技术和社区动态  
+- [coindesk](https://www.coindesk.com/) - 全球领先的加密货币新闻平台，提供行业动态和深度分析  
+- [cointelegraph](https://cointelegraph.com/) - 国际区块链和加密货币新闻媒体，提供及时资讯和专题报道  
+- [rekt 发布漏洞和攻击事件资讯的平台](https://rekt.news/zh/) - 专注于区块链安全漏洞和攻击事件的实时报道，支持中文  
+- [巴比特](https://www.8btc.com/) - 国内知名的区块链资讯门户，聚焦行业新闻和政策解读  
+- [律动](https://www.theblockbeats.info/) - 区块链及数字货币行业信息平台，内容包括行情、深度分析等  
+- [区块链日报](https://www.trzrb.com/) - 提供最新区块链新闻和行业观察的中文资讯平台  
+- [鸵鸟区块链](https://www.tuoniaox.com/) - 数字经济技术与资讯平台，覆盖区块链行业热点  
+- [链节点](https://www.chainnode.com/) - 区块链社区媒体，发布行业资讯和技术文章  
+- [链门户](http://www.lianmenhu.com/) - 专注区块链产业的新闻门户网站  
+- [鸵鸟区块链 - 数字经济技术及资讯平台](https://www.tuoniaox.com/) - 数字经济领域的技术与资讯平台，聚焦区块链发展  
+- [PANews - 区块链新闻资讯](https://www.panewslab.com/zh/index.html) - 专业区块链新闻资讯服务平台  
+- [优源码-区块链](https://netfreeman.com/) - 开源区块链项目及代码资源分享平台  
+- [链圈子](https://www.wwsww.cn/) - 区块链行业社交与资讯综合平台  
+
+
+
 
 ### 20个投研工具
 | 序号 | 项目           | 链接                                                   | 备注               |
@@ -176,1070 +286,424 @@
 | 20   | Rootdata       | [https://rootdata.com/zh](https://rootdata.com/zh)     | 项目融资信息       |
   
 
-## 交易
 ### K线数据
-**[AstroTools](https://astrotools.io/)**
-    AstroTools 土狗K线
+## 交易
 
-**[Rometerminal](https://app.rometerminal.io/)**
-    DEX 和多 dApp 交易
-
-**[Live Coin Watch](https://www.livecoinwatch.com/)**
-    Live Coin Watch全链K线
-
-**[ibccoin Cosmos](https://www.ibccoin.org/)**
-    ibccoin CosmosK线
-
-**[ChartEX](https://chartex.pro/dashboard)**
-    ChartEX 多链K线行情
-
-**[Kek](https://kek.tools/)**
-    FTM链DEX工具，K线数据查询
-
-**[Birdeye](https://birdeye.so/)**
-    Solana链上的项目K线数据行情，类似DEXTools
-
-**[DEX SCREENER](https://dexscreener.com/)**
-    土狗查找，币价查看
-
-**[AveDex](https://avedex.cc/token)**
-    BSC、ETH链土狗币价K线
-
-**[PooCoin](https://poocoin.app)**
-    BSC链土狗K线，一般BSC链的新币价格K线他都会收录
-
-**[TradingView](https://www.tradingview.com)**
-    专业的投资者行情查看画线网站
-
-**[DEXTools](https://www.dextools.io/app)**
-    土狗币价浏览器，输入合约地址查询价格
+### K线数据
+- [AstroTools](https://astrotools.io/) - AstroTools 土狗K线
+- [Rometerminal](https://app.rometerminal.io/) - DEX 和多 dApp 交易数据
+- [Live Coin Watch](https://www.livecoinwatch.com/) - 全链K线行情数据
+- [ibccoin Cosmos](https://www.ibccoin.org/) - ibccoin Cosmos链K线
+- [ChartEX](https://chartex.pro/dashboard) - 多链K线行情分析
+- [Kek](https://kek.tools/) - FTM链DEX工具，K线数据查询
+- [Birdeye](https://birdeye.so/) - Solana链项目K线行情，类似DEXTools
+- [DEX SCREENER](https://dexscreener.com/) - 土狗币价和合约地址查询
+- [AveDex](https://avedex.cc/token) - BSC、ETH链土狗币价K线
+- [PooCoin](https://poocoin.app) - BSC链新币价格K线收录工具
+- [TradingView](https://www.tradingview.com) - 专业投资者行情查看和画线网站
+- [DEXTools](https://www.dextools.io/app) - 土狗币价浏览器，合约地址查询价格
 
 ### DEX交易所
-**[GMGN](https://t.me/GMGN_sol_bot?start=i_732gCUit)**
-    链上交易和数据分析工具
-
-**[LeetSwap](https://leetswap.finance)**
-    LeetSwap 是一个建立在 leetest 区块链上的新兴 DEX 和 DeFi 生态系统
-
-**[GMX](https://gmx.io)**
-    GMX是一个去中心化交易所，提供现货及永续期货交易
-
-**[Flame swap](https://flameswap.io)**
-    Sui公链第一个DEX，Flame swap
-
-**[Solarbeam](https://solarbeam.io/)**
-    Moonriver网络去中心化交易所
-
-**[ZigZag](https://trade.zigzag.exchange/)**
-    L2 zkSync 限价单交易所
-
-**[Kirobo](https://www.kirobo.io/)**
-    P2P模式，Kirobo的分散应用程序消除了资金损失的风险
-
-**[SunSwap](https://sun.io/?lang=zh-CN#/home)**
-    基于波场的DEX,TRON首个集稳定币兑换、质押挖矿及自治为一体的平台
-
-**[AtlasDex](https://app.atlasdex.finance/swap)**
-    基于Solana的跨链聚合交易所,可以无缝执行Solana、以太坊、币安链和Polygon的跨链交换
-
-**[SpiritSwap](https://www.spiritswap.finance/)**
-    Fantom（FTM） 链上最好的交易所
-
-**[PangoLin](https://www.pangolin.exchange/)**
-    AVAX上的去中心化交易所
-
-**[Solidly](https://solidly.exchange/home)**
-    FTM链上AMM机制DEX
-
-**[Hashflow](https://www.hashflow.com/)**
-    连接用户与顶级加密链上做市商的DEX协议无缝跨链交易平台
-
-**[Trade.zigzag](https://trade.zigzag.exchange/)**
-    zksync的DEX，带有跨链功能
-
-**[MojitoSwap](https://app.mojitoswap.finance/)**
-    KCC链上最大的去中心化交易所
-
-**[iZUMi](https://izumi.finance/home)**
-    多链Defi协议ZKS链SWAP
-
-**[Chiliz](https://www.chiliz.net/)**
-    基于CHZ的球迷币系列交易所
-
-**[Balancer](https://balancer.fi/)**
-    自动投资组合管理和交易
-
-**[ShiBa Swap](https://shibaswap.com/#/)**
-    ShiBa Swap柴犬交易所
-
-**[Orca](https://www.orca.so/)**
-    SOL链去中心化交易所
-
-**[PAD.Fi]( https://pad.fi/dex/swap)**
-    Near链去中心化交易所
-
-**[SpookySwap](https://spooky.fi/)**
-    FTM去中心化交易所
-
-**[QuickSwap](https://quickswap.exchange/#/swap)**
-    基于Matic /Polygon 上的DEX，包括BSC AVAX ETH FTM 等多链DEX
-
-**[traderjoexyz](https://traderjoexyz.com/)**
-    Avalanche 链上最大的交易所
-
-**[Osmosis](https://osmosis.zone/)**
-    第一个IBC原生链之间的AMM，能链接ERC20
-
-**[Raydium](https://raydium.io/swap/)**
-    SOL链去中心化交易所
-
-**[Xswap](https://www.transit.finance)**
-    
-
-**[PancakeSwap薄饼](https://pancakeswap.finance)**
-    PancakeSwap币安智能链去中心化交易所
-
-**[Sushi](https://sushi.com)**
-    Sushi寿司交易所
-
-**[Uniswap](https://uniswap.org)**
-    Uniswap去中心化交易所
+- [GMGN](https://t.me/GMGN_sol_bot?start=i_732gCUit) - 链上交易和数据分析工具
+- [LeetSwap](https://leetswap.finance) - leetest区块链上的新兴DEX和DeFi生态
+- [GMX](https://gmx.io) - 去中心化交易所，现货及永续期货交易
+- [Flame swap](https://flameswap.io) - Sui公链第一个DEX
+- [Solarbeam](https://solarbeam.io/) - Moonriver网络去中心化交易所
+- [ZigZag](https://trade.zigzag.exchange/) - L2 zkSync限价单交易所
+- [Kirobo](https://www.kirobo.io/) - P2P模式去中心化应用，防止资金损失
+- [SunSwap](https://sun.io/?lang=zh-CN#/home) - 基于波场的DEX，TRON首个平台
+- [AtlasDex](https://app.atlasdex.finance/swap) - Solana跨链聚合交易所
+- [SpiritSwap](https://www.spiritswap.finance/) - Fantom链最佳交易所
+- [PangoLin](https://www.pangolin.exchange/) - Avalanche链上去中心化交易所
+- [Solidly](https://solidly.exchange/home) - FTM链AMM机制DEX
+- [Hashflow](https://www.hashflow.com/) - 顶级链上做市商DEX协议，跨链交易
+- [Trade.zigzag](https://trade.zigzag.exchange/) - zksync的DEX，带跨链功能
+- [MojitoSwap](https://app.mojitoswap.finance/) - KCC链最大去中心化交易所
+- [iZUMi](https://izumi.finance/home) - 多链Defi协议ZKS链SWAP
+- [Chiliz](https://www.chiliz.net/) - CHZ球迷币系列交易所
+- [Balancer](https://balancer.fi/) - 自动投资组合管理与交易
+- [ShiBa Swap](https://shibaswap.com/#/) - 柴犬币交易所
+- [Orca](https://www.orca.so/) - Solana链去中心化交易所
+- [PAD.Fi](https://pad.fi/dex/swap) - Near链去中心化交易所
+- [SpookySwap](https://spooky.fi/) - FTM去中心化交易所
+- [QuickSwap](https://quickswap.exchange/#/swap) - Matic/Polygon及多链DEX
+- [traderjoexyz](https://traderjoexyz.com/) - Avalanche链最大交易所
+- [Osmosis](https://osmosis.zone/) - IBC原生链之间AMM，连接ERC20
+- [Raydium](https://raydium.io/swap/) - Solana链去中心化交易所
+- [Xswap](https://www.transit.finance) - 跨链交易平台
+- [PancakeSwap薄饼](https://pancakeswap.finance) - BSC链DEX
+- [Sushi](https://sushi.com) - Sushi去中心化交易所
+- [Uniswap](https://uniswap.org) - 以太坊去中心化交易所
 
 ### DEX聚合器
-**[AutoFarm](https://autofarm.network/)**
-    机枪池，优化DeFi挖矿，跨链收益聚合器
-
-**[izumi](https://izumi.finance/home)**
-    通过 Uniswap V3 和内置 多链 dex 提供流动性即服务 (LaaS) 的平台
-
-**[XY FINANCE](https://app.xy.finance/)**
-    一站式跨链交易聚合器
-
-**[O3 Swap](https://o3swap.com/swap)**
-    O3 Swap跨链交易聚合器
-
-**[OpenOcean](https://openocean.finance/)**
-    多链交易聚合器
-
-**[Slingshot](https://app.slingshot.finance/)**
-    基于Matic，Arbitrum, Optimism的去中心化交易所
-
-**[Jup.ag](https://jup.ag/)**
-    Jup.ag 基于SOL链的交易聚合器
-
-**[CowSwap](https://cowswap.exchange/#/swap)**
-    CowSwap 聚合交易所，交易成功后你会听到一声牛叫能够防止夹子攻击
-
-**[ParaSwap](https://www.paraswap.io/)**
-    ParaSwap多链交易聚合
-
-**[Matcha](https://matcha.xyz/)**
-    Matcha多链交易聚合
-
-**[1inch](https://1inch.io)**
-    1inch知名多链交易聚合网站
-
-**[Zapper](https://zapper.fi)**
-    聚合交易所，DeFi 投资组合
-
-**[Dex.Guru](https://dex.guru)**
-    Dex.Guru DEX行情K线+交易网站
+- [AutoFarm](https://autofarm.network/) - 跨链收益聚合器，优化DeFi挖矿
+- [izumi](https://izumi.finance/home) - 基于Uniswap V3的多链流动性即服务
+- [XY FINANCE](https://app.xy.finance/) - 一站式跨链交易聚合器
+- [O3 Swap](https://o3swap.com/swap) - 跨链交易聚合器
+- [OpenOcean](https://openocean.finance/) - 多链交易聚合平台
+- [Slingshot](https://app.slingshot.finance/) - 基于Matic、Arbitrum、Optimism的去中心化交易所
+- [Jup.ag](https://jup.ag/) - Solana链交易聚合器
+- [CowSwap](https://cowswap.exchange/#/swap) - 防夹子攻击的聚合交易所
+- [ParaSwap](https://www.paraswap.io/) - 多链交易聚合
+- [Matcha](https://matcha.xyz/) - 多链交易聚合
+- [1inch](https://1inch.io) - 知名多链交易聚合平台
+- [Zapper](https://zapper.fi) - 聚合交易所和DeFi投资组合
+- [Dex.Guru](https://dex.guru) - DEX行情K线与交易平台
 
 ### 跨链工具
-**[Base多链跨链桥](https://app.squidrouter.com/)**
-    Base多链跨链桥
-
-**[Base跨链桥](https://bridge.base.org/deposit)**
-    Base官方跨链桥
-
-**[Owlto](https://owlto.finance/rewards/?ref=0xD0E947438A3EE3807604D20F7078185BF5d06fA5)**
-    Owlto,Linea跨链桥
-
-**[zkSync Era Bridge](https://bridge.zksync.io)**
-    zkSync官方跨链桥
-
-**[StarkNet官方桥（单向）](https://starkgate.starknet.io/)**
-    StarkNet官方桥（单向）
-
-**[ZKS官方桥Orbiter](https://www.orbiter.finance)**
-    ZKS官方桥Orbiter
-
-**[Wormhole Bridge](https://www.portalbridge.com/)**
-    跨链SOL、ETH、BSC、Terra、Polygon、AvAX和Oasis无缝传输资产
-
-**[Rainbowbridge](https://rainbowbridge.app/transfer)**
-    near官方彩虹桥，兼容Aurora
-
-**[Terra Bridge](https://bridge.terra.money/)**
-    Terry官方桥
-
-**[BoringDAO](https://www.boringdao.com/)**
-    跨链工具，提供不同链之间的资产转移
-
-**[Li.Finance](https://li.fi/)**
-    跨链聚合交易
-
-**[Xpollinate](https://bridge.connext.network/)**
-    多链之间资产跨链转移
-
-**[Allbridge](https://allbridge.io/)**
-    多链资产转移工具
-
-**[Harmony ONE-ETH Bridge](https://bridge.harmony.one/busd)**
-    Harmony ONE-ETH Bridge
-
-**[AVAX雪崩桥](https://bridge.avax.network/login)**
-    雪崩桥，从ETH转移到AVAX
-
-**[Routerpr](https://www.routerprotocol.com/)**
-    全链跨链桥,支持EVM和非EVM链
-
-**[Multichain](https://multichain.org/)**
-    目前为止最好的跨链桥
-
-**[ChainSwap](https://chainswap.co/)**
-    跨链生态系统应用
-
-**[Rubic](https://app.rubic.exchange/)**
-    一键完成以太坊、币安智能链、Polygon、Harmony、Avalanche、Moonriver、Fantom、Solana、Arbitrum、Aurora 和 Near 上超过 15,000 种资产的交换
-
-**[Debridge](https://debridge.finance/)**
-    跨链互操作性协议，跨链工具
-
-**[Orbiter](https://www.orbiter.finance/)**
-    以太坊L2之间跨链桥，速度快，空投预期，目前唯一可以在所有L2之间转账的跨链桥，包括L2的各种数据
-
-**[Layerswap](https://www.layerswap.io/)**
-    提供在交易所和L2网络之间的跨链，谨慎使用！
-
-**[Rango](https://app.rango.exchange/)**
-    40条公链跨链交易聚合器
-
-**[AnySwap](https://anyswap.exchange/)**
-    AnySwap去中心化跨链交换协议
-
-**[Transferto](https://transferto.xyz/)**
-    高级桥接和DEX聚合 9个桥，12个链，所有的DEXs
-
-**[Hashflow](https://www.hashflow.com/)**
-    连接用户与顶级加密链上做市商的DEX协议无缝跨链交易平台
-
-**[O3 Swap](https://o3swap.com/swap)**
-    O3 Swap跨链交易聚合器
+- [Base多链跨链桥](https://app.squidrouter.com/) - Base多链跨链桥
+- [Base跨链桥](https://bridge.base.org/deposit) - Base官方跨链桥
+- [Owlto](https://owlto.finance/rewards/?ref=0xD0E947438A3EE3807604D20F7078185BF5d06fA5) - Linea跨链桥
+- [zkSync Era Bridge](https://bridge.zksync.io) - zkSync官方跨链桥
+- [StarkNet官方桥（单向）](https://starkgate.starknet.io/) - StarkNet官方单向桥
+- [ZKS官方桥Orbiter](https://www.orbiter.finance) - ZKS官方跨链桥Orbiter
+- [Wormhole Bridge](https://www.portalbridge.com/) - SOL、ETH、BSC等链跨链资产传输
+- [Rainbowbridge](https://rainbowbridge.app/transfer) - Near官方彩虹桥，兼容Aurora
+- [Terra Bridge](https://bridge.terra.money/) - Terra官方跨链桥
+- [BoringDAO](https://www.boringdao.com/) - 不同链资产转移跨链工具
+- [Li.Finance](https://li.fi/) - 跨链聚合交易平台
+- [Xpollinate](https://bridge.connext.network/) - 多链资产跨链转移
+- [Allbridge](https://allbridge.io/) - 多链资产跨链工具
+- [Harmony ONE-ETH Bridge](https://bridge.harmony.one/busd) - Harmony ONE与ETH跨链桥
+- [AVAX雪崩桥](https://bridge.avax.network/login) - ETH转AVAX跨链桥
+- [Routerpr](https://www.routerprotocol.com/) - 支持EVM和非EVM链的全链跨链桥
+- [Multichain](https://multichain.org/) - 多链跨链桥平台
+- [ChainSwap](https://chainswap.co/) - 跨链生态系统应用
+- [Rubic](https://app.rubic.exchange/) - 15,000+资产跨链交换平台
+- [Debridge](https://debridge.finance/) - 跨链互操作协议
+- [Orbiter](https://www.orbiter.finance/) - 以太坊L2跨链桥
+- [Layerswap](https://www.layerswap.io/) - 交易所与L2网络跨链桥（谨慎使用）
+- [Rango](https://app.rango.exchange/) - 40条公链跨链交易聚合器
+- [AnySwap](https://anyswap.exchange/) - 去中心化跨链交换协议
+- [Transferto](https://transferto.xyz/) - 高级桥接和DEX聚合，支持9个桥和12个链
+- [Hashflow](https://www.hashflow.com/) - 链上做市商DEX协议，无缝跨链交易平台
+- [O3 Swap](https://o3swap.com/swap) - 跨链交易聚合器
 
 ### 衍生品交易
-**[Deribit](https://www.deribit.com/)**
-    期权交易所，最先进的加密衍生品交易平台，加密期货和PERP的杠杆率高达50倍
-
-**[Opyn](https://www.opyn.co/)**
-    期权交易衍生品交易
-
-**[Deus](https://deus.finance/)**
-    全球首个去中心化双边场外衍生品平台
-
-**[Drift](https://app.drift.trade/)**
-    Solana链上、跨保证金的可扩展的永续期货 DEX
-
-**[01.xyz](https://01.xyz/zh/)**
-    基于SOL的衍生品DEX交易
-
-**[Dopex](https://www.dopex.io/zh)**
-    同时具有最大流动性和最小风险敞口的期权协议.
-
-**[Openleverage](https://eth.openleverage.finance/app/referral/3868cf85)**
-    OpenLeverage是一个无许可借贷保证金交易协议，使交易者或其他应用程序能够高效和安全地在DEX上做多或做空任何交易对
-
-**[dYdX](https://trade.dydx.exchange/portfolio/overview)**
-    去中心化合约交易
+- [Deribit](https://www.deribit.com/) - 加密衍生品期权和永续合约交易平台
+- [Opyn](https://www.opyn.co/) - 期权衍生品交易平台
+- [Deus](https://deus.finance/) - 去中心化双边场外衍生品平台
+- [Drift](https://app.drift.trade/) - Solana链上跨保证金永续期货DEX
+- [01.xyz](https://01.xyz/zh/) - 基于Solana的衍生品DEX
+- [Dopex](https://www.dopex.io/zh) - 最大流动性与最小风险敞口的期权协议
+- [Openleverage](https://eth.openleverage.finance/app/referral/3868cf85) - 无许可保证金借贷交易协议
+- [dYdX](https://trade.dydx.exchange/portfolio/overview) - 去中心化合约交易平台
 
 ### 量化交易
-**[TVCbot](https://www.tvcbot.com/aff.php?aff=285)**
-    简单设置的量化机器人网站
+- [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
+- [3commas](https://3commas.io/?c=tc1330119) - 量化交易平台，支持Tradeview和币安
+- [FMZ](https://www.fmz.com/sign-up/9991166) - 量化策略开发与交流社区
 
-**[3commas](https://3commas.io/?c=tc1330119)**
-    量化交易平台，可对接Tradeview和币安
-
-**[FMZ](https://www.fmz.com/sign-up/9991166)**
-    发明者 - 量化世界 交易策略开发、量化学习资源、策略出租出售、在线交流社区
 
 ## 数据工具
 ### 综合查询
 
-**[dune](https://dune.com/0xBi/0xBi)**
-    巨鲸地址持仓情况跟踪
-
-**[APE Staking APYs](https://dune.com/ponzidope/apecoin-staking-apy)**
-    APE 质押的Dune数据表
-
-**[DappRadar](https://dappradar.com/)**
-    项目分析、市场分析工具
-
-**[Apy](https://apy.vision/)**
-    多功能流动性池分析和收益率跟踪工具
-
-**[Parsec](https://parsec.finance/)**
-    专业分析图表工具，高度可配置市场数据流，包括交易、借贷和清算
-
-**[Cryptoquant](https://cryptoquant.com/asset/btc/chart/exchange-flows)**
-    行情分析及链上数据分析
-
-**[Merv](https://merv.tech/)**
-    defi链上数据分析
-
-**[Tokensniffer](https://tokensniffer.com/)**
-    土狗meme币信息查询
-
-**[Ultrasound](https://ultrasound.money/)**
-    ETH燃烧排行和燃烧数据查询，可以通过这个查询到那些热门NFT在mint
-
-**[Team Finance](https://www.team.finance/)**
-    锁仓及解锁时间查询
-
-**[TokenInsight](https://tokeninsight.com/)**
-    各公链上的项目评级及交易数据服务商
-
-**[Bitinfocharts](https://bitinfocharts.com/zh/)**
-    比特币,以太坊等-价格、奖励、难度、哈希率、市值、区块时间、区块计数展示
-
-**[DappReview](https://dapp.review/)**
-    Dapp交易，活跃用户数据和市场分析，包括链游，DEFI项目，支持多链
-
-**[ChainBeat](https://chainbeat.io/)**
-    Web 3.0 的数据分析平台,跨区块链分析,实时警报和基于实时智能合约使用情况的自定义报告，提供对活跃用户、交易、事件、代币转移的监测
-
-**[santiment](https://santiment.net/)**
-    做市场分析和项目分析必备网站
-
-**[coinparticle](https://www.coinparticle.com/)**
-    能更好地将 Token 的数据进行可视化分析，并帮助我了解它们相对于其他 Token 的堆叠效应
-
-**[Token Terminal](https://tokenterminal.com/)**
-    通过传统的财务指标衡量和评估区块链和DAPP，Token Terminal是一个加密分析平台
-
-**[explorer](https://explorer.viawallet.com/halving)**
-    主要币种的减半倒计时 未处理交易 以及存币富豪榜 等工具
-
-**[djyanbao](https://www.djyanbao.com/index)**
-    洞见研报全面覆盖各投资领域，提供便捷、全面的实时、专业的信息检索服务
-
-**[Curve](https://curve.fi/3pool)**
-    稳定币池，币圈美联储
-
-**[BitInfoCharts](https://bitinfocharts.com/zh/)**
-    加密货币信息统计
-
-**[CoinGecko](https://www.coingecko.com/zh)**
-    token信息查询
-
-**[CoinMarketBook](https://coinmarketbook.cc)**
-    市场深度检查
-
-**[CoinMarketCap](https://coinmarketcap.com)**
-    提供大量项目的详细信息查询非常知名的网站
+- [dune](https://dune.com/0xBi/0xBi) - 巨鲸地址持仓情况跟踪
+- [APE Staking APYs](https://dune.com/ponzidope/apecoin-staking-apy) - APE 质押的Dune数据表
+- [DappRadar](https://dappradar.com/) - 项目分析、市场分析工具
+- [Apy](https://apy.vision/) - 多功能流动性池分析和收益率跟踪工具
+- [Parsec](https://parsec.finance/) - 专业分析图表工具，高度可配置市场数据流，包括交易、借贷和清算
+- [Cryptoquant](https://cryptoquant.com/asset/btc/chart/exchange-flows) - 行情分析及链上数据分析
+- [Merv](https://merv.tech/) - defi链上数据分析
+- [Tokensniffer](https://tokensniffer.com/) - 土狗meme币信息查询
+- [Ultrasound](https://ultrasound.money/) - ETH燃烧排行和燃烧数据查询，可以通过这个查询到那些热门NFT在mint
+- [Team Finance](https://www.team.finance/) - 锁仓及解锁时间查询
+- [TokenInsight](https://tokeninsight.com/) - 各公链上的项目评级及交易数据服务商
+- [Bitinfocharts](https://bitinfocharts.com/zh/) - 比特币、以太坊等价格、奖励、难度、哈希率、市值、区块时间、区块计数展示
+- [DappReview](https://dapp.review/) - Dapp交易，活跃用户数据和市场分析，包括链游，DEFI项目，支持多链
+- [ChainBeat](https://chainbeat.io/) - Web 3.0 数据分析平台，跨区块链分析，实时警报和智能合约使用报告
+- [Santiment](https://santiment.net/) - 市场及项目分析必备网站
+- [Coinparticle](https://www.coinparticle.com/) - Token数据可视化分析，了解堆叠效应
+- [Token Terminal](https://tokenterminal.com/) - 传统财务指标衡量区块链和DAPP项目
+- [Explorer](https://explorer.viawallet.com/halving) - 主要币种减半倒计时、未处理交易、存币富豪榜等工具
+- [DJYanbao](https://www.djyanbao.com/index) - 全面覆盖各投资领域的研报和实时专业信息检索
+- [Curve](https://curve.fi/3pool) - 稳定币池，币圈美联储
+- [CoinGecko](https://www.coingecko.com/zh) - token信息查询
+- [CoinMarketBook](https://coinmarketbook.cc) - 市场深度检查
+- [CoinMarketCap](https://coinmarketcap.com) - 大量项目详细信息查询，知名网站
 
 ### 链上数据
-**[Rdata](https://rdata.app)**
-    免费的链上数据查询
-
-**[Glassnode](https://glassnode.com/)**
-    最强大的链上数据分析网站，还有链上周报
-
-**[Coinglass](https://www.coinglass.com)**
-    合约持仓、灰度持仓、资金费率等
-
-**[CryptoBubbles](https://cryptobubbles.net)**
-    前500加密货币活跃度气泡图
+- [Rdata](https://rdata.app) - 免费链上数据查询
+- [Glassnode](https://glassnode.com/) - 强大的链上数据分析及周报
+- [Coinglass](https://www.coinglass.com) - 合约持仓、灰度持仓、资金费率
+- [CryptoBubbles](https://cryptobubbles.net) - 前500加密货币活跃度气泡图
 
 ### 指数查询
-
-**[Google Trends](https://trends.google.com/trends)**
-    谷歌搜索趋势
-
-**[Alternative](https://alternative.me/crypto/fear-and-greed-index/)**
-    恐慌贪婪指数
-
-**[Heimdall](https://heimdall.land/)**
-    根据社区交互数据分析得出的指数排名
-
-**[PolkaProject](https://www.polkaproject.com/)**
-    PolkaProject 指数，插槽，排行榜指数等
-
-**[SolanaProject](https://solanaproject.com)**
-    Solana Project 项目指数查询
-
-**[Bscproject](https://www.bnbproject.org)**
-    币安链项目指数查询
-
-**[Blocknative](https://www.blocknative.com/)**
-    GAS指数查询，开发套件
-
-**[Mcn](https://mcn.ventures/)**
-    孵化和发展 DeFi 协议，借贷协议、抵押稳定币、DEX 和 DEX 聚合器，以及收益农场和聚合器等
-
-**[TwitterScan](https://twitterscan.com/)**
-    Twitter 上 token 热度情况排名
-
-**[Clevelandfed](https://www.clevelandfed.org/our-research/indicators-and-data/inflation-nowcasting.aspx)**
-    个人消费支出价格指数 (PCE) 和消费者价格指数 (CPI) 提供每日通胀临近预报
-
-**[Ahr999指数](https://www.coinglass.com/pro/i/ahr999)**
-    Ahr999指数
+- [Google Trends](https://trends.google.com/trends) - 谷歌搜索趋势
+- [Alternative](https://alternative.me/crypto/fear-and-greed-index/) - 恐慌贪婪指数
+- [Heimdall](https://heimdall.land/) - 社区交互数据指数排名
+- [PolkaProject](https://www.polkaproject.com/) - PolkaProject指数和排行榜
+- [SolanaProject](https://solanaproject.com) - Solana项目指数查询
+- [Bscproject](https://www.bnbproject.org) - 币安链项目指数查询
+- [Blocknative](https://www.blocknative.com/) - GAS指数及开发套件
+- [MCN](https://mcn.ventures/) - DeFi协议孵化与发展
+- [TwitterScan](https://twitterscan.com/) - Twitter上token热度排名
+- [Clevelandfed](https://www.clevelandfed.org/our-research/indicators-and-data/inflation-nowcasting.aspx) - PCE和CPI每日通胀预报
+- [Ahr999指数](https://www.coinglass.com/pro/i/ahr999) - Ahr999指数
 
 ### TVL查询
-**[Orbiter](https://www.orbiter.finance/data)**
-    Layer2综合数据
-
-**[L2beatTVL](https://l2beat.com/scaling/tvl/)**
-    以太坊2层扩容TVL数据查看工具，TVL能看出该L2层当前质押的的资产规模，也一定程度上代表了该2层协议的发展趋势和现状
-
-**[DeFi Pulse](https://www.defipulse.com/)**
-    DeFi的分析+排名中心
-
-**[Pools](https://pools.fyi/)**
-    流动性池子查询，寻找最好的池子
-
-**[APY](https://apy.top/)**
-    查询各公链农场APY收益和TVL工具
-
-**[coindix](https://nanoly.com/)**
-    Coindix 的仪表板可以监控不同链上的稳定币收益率
+- [Orbiter](https://www.orbiter.finance/data) - Layer2综合数据
+- [L2beatTVL](https://l2beat.com/scaling/tvl/) - 以太坊二层TVL数据及发展趋势
+- [DeFi Pulse](https://www.defipulse.com/) - DeFi分析和排名中心
+- [Pools](https://pools.fyi/) - 流动性池查询
+- [APY](https://apy.top/) - 各链农场APY和TVL查询
+- [Coindix](https://nanoly.com/) - 稳定币收益率监控
 
 ### 实用工具
-**[LoanScan](https://linen.app/interest-rates/)**
-    LoanScan通过以太坊区块链上的开放金融协议发放的贷款提供数据和分析
-
-**[Bloxy](https://bloxy.info/zh/)**
-    基于区块链实时数据的报告 DEX 交易分析、DEX 套利分析、保证金交易头寸，可以查代币，DEX，DAPP等数据
-
-**[DEFI-LAB](https://defi-lab.xyz/)**
-    DEFI策略模拟器
-
-**[RugScreen](https://www.rugscreen.com/)**
-    土狗，貔貅合约地址检查
-
-**[CypherHunter](https://www.cypherhunter.com/zh-hans/)**
-    探索项目、项目背后的公司团队以及他们正在建造的产品
-
-**[Notion](https://notionchina.co/guide/)**
-    提供笔记、任务、数据库、看板、维基、日历和提醒等组件的应用程序
-
-**[Ethereum Gas tracker](https://www.useweb3.xyz/gas?source=ethgas.watch&amp;referrer=ethgas.watch)**
-    一个聚合的 gas 价格提要
-
-**[RugDoc](https://rugdoc.io/)**
-    链上项目启动日历，AVAX,BCS,FTM等
-
-**[QKL123](https://m.qkl123.com/data/halve/btc)**
-    比特币减产倒计时
-
-**[BTC.COM](https://btc.com)**
-    提供专业的数据与矿池服务
-
-**[Btcstudy](https://www.btcstudy.org/)**
-    非常全面的关于BTC的资料库
-
-**[Defisafety](https://www.defisafety.com/)**
-    Defi项目安全测评网站
-
-**[Cryptofees](https://cryptofees.info/)**
-    项目付费使用排行榜，人们实际付费使用哪些？
-
-**[Paladinsec](https://paladinsec.co/)**
-    合约审计，可以看最新审计的项目
-
-**[forexlive](https://www.forexlive.com/EconomicCalendar)**
-    经济日历，能够查看主要事件的日历本
-
-**[Rabbithole](https://app.rabbithole.gg/quests)**
-    Web3流量入口、任务平台
-
-**[Defieye](https://chaineye.tools/cexFee)**
-    查询提币手续费的网站
-
-**[cryptomiso](https://www.cryptomiso.com/)**
-    Github活跃度数据，包括commits提交次数、贡献者、最近一次提交时间等
-
-**[Discord-Translator](https://betterdiscord.app/plugin/Translator)**
-    这是一个Discord的翻译插件
-
-**[Intotheblock](https://app.intotheblock.com/)**
-    代币持币地址的图表化统计分析，多方位指标项目代币数据
-
-**[Linktree](https://linktr.ee/)**
-    将你的所有社交媒体链接聚合到一个链接上
-
-**[Web3Alerts](https://web3alerts.app/)**
-    找到最热门的新 Web3项目
-
-**[Defiyield](https://defiyield.app/)**
-    使用一整套创新工具控制您的数字资产，管理你的DEFI活动
-
-**[Coinforecast](https://coinforecast.org/)**
-    市场趋势及资金动向平台，可查看看多军与空军比例
-
-**[Exchangewar](https://exchangewar.info/)**
-    可以查看各中心化交易所活跃的交易对及交易量排名
-
-**[Rare.id](https://rare.id/)**
-    ENS最新交易数据、注册数据查询
-
-**[CME FedWatch FOMC](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html)**
-    倒计时下一次联邦公开市场委员会 (FOMC) 加息
-
-**[ETH销毁数量](https://ultrasound.money)**
-    ETH销毁数量统计
-
-**[CoinTool](https://cointool.app)**
-    币圈常用小工具链上工具，批量转账，归集等
-
-**[慢雾合约审计](https://www.slowmist.com/service-smart-contract-security-audit.html?lang=zh)**
-    可查询合约地址较少，大多数...
-
-**[Croco Finance](https://croco.finance)**
-    无常损失计算器
-
-**[Honeypot Detector for BSC](https://www.honeypot.is)**
-    BSC土狗貔貅盘查询工具
+- [LoanScan](https://linen.app/interest-rates/) - 以太坊链上贷款数据和分析
+- [Bloxy](https://bloxy.info/zh/) - 区块链实时报告，DEX交易和套利分析
+- [DEFI-LAB](https://defi-lab.xyz/) - DeFi策略模拟器
+- [RugScreen](https://www.rugscreen.com/) - 土狗合约地址检查
+- [CypherHunter](https://www.cypherhunter.com/zh-hans/) - 项目及团队探索
+- [Notion](https://notionchina.co/guide/) - 笔记、任务、数据库和看板应用
+- [Ethereum Gas tracker](https://www.useweb3.xyz/gas?source=ethgas.watch&amp;referrer=ethgas.watch) - 聚合gas价格提要
+- [RugDoc](https://rugdoc.io/) - 链上项目启动日历
+- [QKL123](https://m.qkl123.com/data/halve/btc) - 比特币减产倒计时
+- [BTC.COM](https://btc.com) - 矿池和数据服务
+- [Btcstudy](https://www.btcstudy.org/) - BTC资料库
+- [Defisafety](https://www.defisafety.com/) - DeFi安全测评网站
+- [Cryptofees](https://cryptofees.info/) - 项目付费排行榜
+- [Paladinsec](https://paladinsec.co/) - 合约审计信息
+- [Forexlive](https://www.forexlive.com/EconomicCalendar) - 经济日历
+- [Rabbithole](https://app.rabbithole.gg/quests) - Web3任务平台
+- [Defieye](https://chaineye.tools/cexFee) - 提币手续费查询
+- [Cryptomiso](https://www.cryptomiso.com/) - Github活跃度数据
+- [Discord-Translator](https://betterdiscord.app/plugin/Translator) - Discord翻译插件
+- [Intotheblock](https://app.intotheblock.com/) - 代币持币地址图表分析
+- [Linktree](https://linktr.ee/) - 社交媒体链接聚合
+- [Web3Alerts](https://web3alerts.app/) - 热门新Web3项目
+- [Defiyield](https://defiyield.app/) - 数字资产管理工具
+- [Coinforecast](https://coinforecast.org/) - 市场趋势及资金动向平台
+- [Exchangewar](https://exchangewar.info/) - 中心化交易所交易量排名
+- [Rare.id](https://rare.id/) - ENS交易及注册数据查询
+- [CME FedWatch FOMC](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html) - 联邦公开市场委员会加息倒计时
+- [ETH销毁数量](https://ultrasound.money) - ETH销毁统计
+- [CoinTool](https://cointool.app) - 常用链上工具
+- [慢雾合约审计](https://www.slowmist.com/service-smart-contract-security-audit.html?lang=zh) - 合约审计服务
+- [Croco Finance](https://croco.finance) - 无常损失计算器
+- [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
 
 ### 巨鲸追踪
-**[Prysm](https://www.prysm.xyz/)**
-    钱包地址盈利能力与操作监控网站
-
-**[Whalestats](https://www.whalestats.com/)**
-    ETH前1000名巨鲸地址追踪及资产分析，各个链前1000钱包分析网站
-
-**[Datemish](https://datamish.com/)**
-    巨鲸地址监控
-
-**[dune](https://dune.com/0xBi/0xBi)**
-    巨鲸地址持仓情况跟踪
+- [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
+- [Whalestats](https://www.whalestats.com/) - 多链巨鲸钱包分析
+- [Datemish](https://datamish.com/) - 巨鲸地址监控
+- [dune](https://dune.com/0xBi/0xBi) - 巨鲸地址持仓情况跟踪
 
 ### 地址监控
-**[GEMIT](https://www.v2.tools.gemit.app/)**
-    钱包监视、聪明钱监视
-
-**[Moonarch BSC crypto trading tools](https://moonarch.app/)**
-    监视钱包、监视地址
-
-**[Revert](https://revert.finance/)**
-    查交易对流动性提供者的LP和LP历史记录
-
-**[jiedata](http://ep.jiedata.com/home)**
-    自编地址簿地址池进行监控
-
-**[Xypher](https://xypher.io/)**
-    大单捕捉提醒工具网站，能监控社交热点
-
-**[Diting](https://www.diting.io/)**
-    监控钱包地址的指定币种的变动和币种TOP50地址的余额变动，并可以发送信息到电报或钉钉
+- [GEMIT](https://www.v2.tools.gemit.app/) - 钱包监视和聪明钱监视
+- [Moonarch BSC crypto trading tools](https://moonarch.app/) - 钱包和地址监视
+- [Revert](https://revert.finance/) - 交易对流动性提供者LP历史记录查询
+- [jiedata](http://ep.jiedata.com/home) - 自编地址簿监控
+- [Xypher](https://xypher.io/) - 大单捕捉和社交热点监控
+- [Diting](https://www.diting.io/) - 钱包余额变动监控及推送
 
 ### 监控工具
-
-**[Bubble Maps](https://app.bubblemaps.io)**
-    可以查看一个项目的持币地址之间的交互关系，以气泡图形式展示
-
-**[Blockchaincenter](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/)**
-    比特币彩虹图，山寨币季节指数
-
-**[F2pool](https://www.f2pool.com/)**
-    Top100 PoW 算力挖矿资讯
-
-**[Miningpoolstats](https://miningpoolstats.stream/)**
-    各POW的币的算力，矿池，活动等情资
-
-**[2miners](https://2miners.com/zh)**
-    各种币的即时算力列表
-
-**[Token.unlocks](https://token.unlocks.app/)**
-    代币解锁情况日历
+- [Bubble Maps](https://app.bubblemaps.io) - 项目持币地址交互气泡图
+- [Blockchaincenter](https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/) - 比特币彩虹图及山寨币季节指数
+- [F2pool](https://www.f2pool.com/) - Top100 PoW算力挖矿资讯
+- [Miningpoolstats](https://miningpoolstats.stream/) - POW币算力矿池统计
+- [2miners](https://2miners.com/zh) - 各币即时算力列表
+- [Token.unlocks](https://token.unlocks.app/) - 代币解锁日历
 
 ### 混币工具
-**[zk.money](https://zk.money/)**
-    以太坊隐私转账
+- [zk.money](https://zk.money/) - 以太坊隐私转账
 
 ### 区块链浏览器
-**[Linea区块浏览器](https://lineascan.build)**
-    Linea区块浏览器
-
-**[Combo 测试网浏览器](https://combotrace-testnet.nodereal.io/)**
-    Combo 测试网浏览器
-
-**[Dogecoin区块浏览器](https://chain.so/DOGE)**
-    Dogecoin区块浏览器
-
-**[zkSync Era区块浏览器](https://explorer.zksync.io)**
-    zkSync Era区块浏览器
-
-**[HECO SCAN](https://hecoinfo.com)**
-    HECO链区块浏览器
-
-**[EOS浏览器](https://eostracker.io)**
-    EOS区块浏览器
-
-**[Blockchain](https://www.blockchain.com/explorer)**
-    比特币区块浏览器
-
-**[Aptos](https://explorer.aptoslabs.com/)**
-    Aptos浏览器
-
-**[MintScan](https://www.mintscan.io/cosmos)**
-    Cosmos浏览器
-
-**[CronosScan](https://cronoscan.com/)**
-    Cronos浏览器
-
-**[NearScan](https://www.nearscan.org/home)**
-    Near浏览器
-
-**[AlgoScan](https://algoscan.app/)**
-    Algorand浏览器
-
-**[GnosisScan](https://gnosisscan.io/)**
-    Gnosis浏览器
-
-**[FilScan](https://filscan.io/)**
-    Filecoin浏览器
-
-**[AVASCAN](https://avascan.info/)**
-    Avalanche浏览器
-
-**[TRONSCAN](https://tronscan.org/)**
-    TRON浏览器
-
-**[FTMScan](https://ftmscan.com/)**
-    Fantom浏览器
-
-**[Subscan](https://www.subscan.io/)**
-    波卡生态浏览器
-
-**[Solscan](https://solscan.io/)**
-    Solana浏览器
-
-**[polygonscan](https://polygonscan.com/)**
-    Polygon浏览器
-
-**[BscScan](https://www.bscscan.com/)**
-    BSC链浏览器
-
-**[Arbiscan](https://arbiscan.io/)**
-    Arbitrum浏览器
-
-**[OP浏览器](https://optimistic.etherscan.io/)**
-    Optimism浏览器
-
-**[Blockscout](https://blockscout.com/eth/mainnet/)**
-    EVM区块链浏览器
-
-**[欧科云链](https://www.oklink.com/zh-cn)**
-    多链浏览器
-
-**[Blockchain](https://www.blockchain.com/explorer)**
-    多链浏览器
-
-**[Blockchair](https://blockchair.com/)**
-    多链浏览器
-
-**[Etherscan](https://etherscan.io)**
-    以太坊区块链浏览器
+- [Linea区块浏览器](https://lineascan.build) - Linea浏览器
+- [Combo测试网浏览器](https://combotrace-testnet.nodereal.io/) - Combo测试网浏览器
+- [Dogecoin区块浏览器](https://chain.so/DOGE) - Dogecoin浏览器
+- [zkSync Era区块浏览器](https://explorer.zksync.io) - zkSync Era浏览器
+- [HECO SCAN](https://hecoinfo.com) - HECO链浏览器
+- [EOS浏览器](https://eostracker.io) - EOS浏览器
+- [Blockchain](https://www.blockchain.com/explorer) - 比特币浏览器
+- [Aptos](https://explorer.aptoslabs.com/) - Aptos浏览器
+- [MintScan](https://www.mintscan.io/cosmos) - Cosmos浏览器
+- [CronosScan](https://cronoscan.com/) - Cronos浏览器
+- [NearScan](https://www.nearscan.org/home) - Near浏览器
+- [AlgoScan](https://algoscan.app/) - Algorand浏览器
+- [GnosisScan](https://gnosisscan.io/) - Gnosis浏览器
+- [FilScan](https://filscan.io/) - Filecoin浏览器
+- [AVASCAN](https://avascan.info/) - Avalanche浏览器
+- [TRONSCAN](https://tronscan.org/) - TRON浏览器
+- [FTMScan](https://ftmscan.com/) - Fantom浏览器
+- [Subscan](https://www.subscan.io/) - 波卡生态浏览器
+- [Solscan](https://solscan.io/) - Solana浏览器
+- [polygonscan](https://polygonscan.com/) - Polygon浏览器
+- [BscScan](https://www.bscscan.com/) - BSC浏览器
+- [Arbiscan](https://arbiscan.io/) - Arbitrum浏览器
+- [OP浏览器](https://optimistic.etherscan.io/) - Optimism浏览器
+- [Blockscout](https://blockscout.com/eth/mainnet/) - EVM链浏览器
+- [欧科云链](https://www.oklink.com/zh-cn) - 多链浏览器
+- [Blockchair](https://blockchair.com/) - 多链浏览器
+- [Etherscan](https://etherscan.io) - 以太坊浏览器
 
 ### 币种官网
+- [Bitcoin](https://bitcoin.org) - 比特币官网
+- [以太坊](https://ethereum.org) - 以太坊官网
+- [USDT](https://tether.to) - USDT官网
+- [XRP](https://ripple.com/xrp) - XRP官网
+- [Solana](https://solana.com) - SOL币官网
+- [Cardano](https://cardano.org) - ADA币官网
+- [Sand](https://www.sandbox.game) - Sandbox官网
+- [MANA(Decentraland)](https://decentraland.org) - Decentraland官网
+- [BitDAO](https://www.bitdao.io) - BitDAO官网
+- [Jasmy](https://www.jasmy.co.jp) - Jasmy官网
+- [XMR](https://www.getmonero.org) - Monero官网
+- [Matic/Polygon](https://polygon.technology) - Polygon官网
+- [Dogecoin](https://dogecoin.com) - Dogecoin官网
 
-**[Bitcoin](https://bitcoin.org)**
-    比特币BTC
-
-**[以太坊](https://ethereum.org)**
-    以太坊官网
-
-**[USDT](https://tether.to)**
-
-
-**[XRP](https://ripple.com/xrp)**
-    
-
-**[Solana](https://solana.com)**
-    SOL币官网    
-
-**[Cardano](https://cardano.org)**
-    ADA币官网
-
-**[Sand](https://www.sandbox.game)**
-    
-
-**[MANA(Decentraland)](https://decentraland.org)**
-    
-
-**[BitDAO](https://www.bitdao.io)**
-    
-
-**[Jasmy](https://www.jasmy.co.jp)**
-    
-
-**[XMR](https://www.getmonero.org)**
-    
-
-**[Matic/Polygon](https://polygon.technology)**
-    
-
-**[Dogecoin](https://dogecoin.com)**
-    
+# 量化机器人平台
+- [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
+- [3commas](https://3commas.io/?c=tc1330119) - 量化交易平台，支持Tradeview和币安
+- [FMZ](https://www.fmz.com/sign-up/9991166) - 量化策略开发与交流社区
 
 ## NFT
+
 ### NFT交易
 
-**[BLUR](https://blur.io)**
-    BLUR是目前NFT交易第二活跃的市场
-
-**[NFTrade](https://nftrade.com/)**
-    用于NFT创建和交易的多链和跨链平台
-
-**[SWAP.KIWI](https://swap.kiwi/)**
-    友好的NFT交换协议
-
-**[Mintverse](https://www.mintverse.com/)**
-    NFT市场和排行数据
-
-**[fractional](https://fractional.art/)**
-    可以将NFT所有权分割的平台
-
-**[rarible](https://rarible.com/items)**
-    NFT的数字收藏和交易平台
-
-**[X.xyz](https://www.biquandh.com/sites/651.html)**
-    NFT创建和交易市场
-
-**[Tofunft](https://tofunft.com/zh-CN)**
-    多链NFT交易市场
-
-**[VIV3](https://viv3.com/)**
-    基于FLOW公链的NFT交易市场
-
-**[SuperRare](https://superrare.com/)**
-    以太坊上的数字艺术市场每件艺术品均由网络中的艺术家真实创作，并被标记为可收藏的数字物品，您可以拥有、展示和交易
-
-**[Kolo](https://www.kolo.market/)**
-    音乐作品以NFT拍卖平台
-
-**[Element](https://element.market/invite?ref=00LA)**
-    多链NFT聚合交易市场
-
-**[Fractal](https://www.fractal.is/)**
-    新晋SOL链NFT平台专注于元宇宙GameFi
-
-**[Genie](https://www.genie.xyz/)**
-    NFT批量挂单买卖平台 ,NFT交易聚合器，扫地版专用，一次支付打包购买
-
-**[NFT Trader](https://www.nfttrader.io/)**
-    用于交换一篮子代币的 P2P NFT 交易协议
-
-**[looksrare](https://looksrare.org/)**
-    LooksRare 是社区第一的 NFT 市场，参与有奖励
-
-**[nWayPlay](https://nwayplay.com/)**
-    正版授权 IP 的 NFT交易市场，基于FLOW公链上的
-
-**[X2Y2](https://x2y2.io/)**
-    NFT交易所
-
-**[Gem](https://www.gem.xyz/)**
-    NFT发现、购买聚合器
-
-**[Binance-NFT市场](https://www.binance.com/zh-CN/nft/home)**
-    Binance-NFT交易市场
-
-**[OpenSea](https://opensea.io)**
-    NFT交易龙头
+- [BLUR](https://blur.io) - BLUR是目前NFT交易第二活跃的市场
+- [NFTrade](https://nftrade.com/) - 用于NFT创建和交易的多链和跨链平台
+- [SWAP.KIWI](https://swap.kiwi/) - 友好的NFT交换协议
+- [Mintverse](https://www.mintverse.com/) - NFT市场和排行数据
+- [fractional](https://fractional.art/) - 可以将NFT所有权分割的平台
+- [rarible](https://rarible.com/items) - NFT的数字收藏和交易平台
+- [X.xyz](https://www.biquandh.com/sites/651.html) - NFT创建和交易市场
+- [Tofunft](https://tofunft.com/zh-CN) - 多链NFT交易市场
+- [VIV3](https://viv3.com/) - 基于FLOW公链的NFT交易市场
+- [SuperRare](https://superrare.com/) - 以太坊上的数字艺术市场，每件艺术品均由艺术家真实创作并标记为可收藏的数字物品，您可以拥有、展示和交易
+- [Kolo](https://www.kolo.market/) - 音乐作品以NFT拍卖平台
+- [Element](https://element.market/invite?ref=00LA) - 多链NFT聚合交易市场
+- [Fractal](https://www.fractal.is/) - 新晋SOL链NFT平台，专注于元宇宙GameFi
+- [Genie](https://www.genie.xyz/) - NFT批量挂单买卖平台，NFT交易聚合器，一次支付打包购买
+- [NFT Trader](https://www.nfttrader.io/) - 用于交换一篮子代币的P2P NFT交易协议
+- [looksrare](https://looksrare.org/) - 社区第一的NFT市场，参与有奖励
+- [nWayPlay](https://nwayplay.com/) - 正版授权IP的NFT交易市场，基于FLOW公链
+- [X2Y2](https://x2y2.io/) - NFT交易所
+- [Gem](https://www.gem.xyz/) - NFT发现、购买聚合器
+- [Binance-NFT市场](https://www.binance.com/zh-CN/nft/home) - Binance-NFT交易市场
+- [OpenSea](https://opensea.io) - NFT交易龙头
 
 ## 元宇宙
+
 ### DID身份
 
-**[base域名](https://app.basens.domains)**
-    .base域名
-
-**[ACE域名注册](https://app.acedomains.io)**
-    ACE域名注册
-
-**[.era域名注册](https://era.name/)**
-    .era域名注册
-
-**[Lens Protocol Profiles](https://opensea.io/collection/lens-protocol-profiles)**
-    Lens域名，需要在opensea购买NFT
-
-**[Starknet](https://app.starknet.id/)**
-    STARK域名
-
-**[zks域名](https://zks.network)**
-    zks域名
-
-**[Gitcoin Passport](https://passport.gitcoin.co/#/dashboard)**
-    WEB3护照
-
-**[ENS域名](https://ens.domains)**
-    ENS域名
-
-**[Space ID](https://space.id/voyage/season-2?inviter=cheshirex.bnb)**
-    .bnb域名注册
-
-**[DAS](https://www.did.id/)**
-    .bit域名，基于区块链、分散和开源的账户系统
-
-**[Ens.tools](https://ens.tools/domains)**
-    查询ENS域名工具
+- [base域名](https://app.basens.domains) - .base域名
+- [ACE域名注册](https://app.acedomains.io) - ACE域名注册
+- [.era域名注册](https://era.name/) - .era域名注册
+- [Lens Protocol Profiles](https://opensea.io/collection/lens-protocol-profiles) - Lens域名，需要在opensea购买NFT
+- [Starknet](https://app.starknet.id/) - STARK域名
+- [zks域名](https://zks.network) - zks域名
+- [Gitcoin Passport](https://passport.gitcoin.co/#/dashboard) - WEB3护照
+- [ENS域名](https://ens.domains) - ENS域名
+- [Space ID](https://space.id/voyage/season-2?inviter=cheshirex.bnb) - .bnb域名注册
+- [DAS](https://www.did.id/) - .bit域名，基于区块链、分散和开源的账户系统
+- [Ens.tools](https://ens.tools/domains) - 查询ENS域名工具
 
 ## 新闻媒体
+
 ### 币圈名人
+
 #### twitter
-**[CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant)**
-    全球最大加密货币交易所创始人、亿万富翁赵长鹏
 
-**[何一](https://x.com/heyibinance)**
-    币圈一姐
+- [CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant) - 全球最大加密货币交易所创始人、亿万富翁赵长鹏
+- [何一](https://x.com/heyibinance) - 币圈一姐
+- [夏六玥](https://x.com/0x6yue) - 多次抓住土狗热点
+- [杀破狼 killthewolf.eth](https://x.com/Wolfy_XBT) - 22岁男大学生，币圈铁头韭菜，喜欢给美女点赞，保持真诚相待
+- [陳威廉](https://x.com/William11Chan) - 曾微博@区块链威廉
+- [旧金山不是巴黎](https://x.com/jiujinshan2022) - 叼毛一根傻逼一个
+- [章鱼哥｜EnsVc.eth](https://x.com/zhanglabs) 
+- [何币](https://x.com/hebi555) - 撸空投大佬
+- [币圈慈善家](https://x.com/cryptocishanjia) - 话痨博主，土狗冲击者，韭菜
+- [加密小师妹|Monica](https://x.com/Monica_xiaoM) - 热门空投教程分享
+- [Anbang](https://x.com/anbang_account) - 长期定投实践者
+- [吴说区块链](https://x.com/wublockchain12) - 专业行业新闻和深度内容推荐
+- [交易员小侠](https://x.com/Traderxiaoxia) - 交易员推特
+- [PlanB](https://x.com/100trillionUSD) - 比特币分析
+- [SBF](https://x.com/SBF_FTX) - FTX首席执行官
+- [凉兮大元帅](https://x.com/liangxihuigui) - 推特账号
+- [Spencer Bogart](https://x.com/CremeDeLaCrypto) - 华尔街背景投资者
+- [Willy Woo](https://x.com/woonomic) - 比特币数据分析大师
+- [Matt Corallo](https://x.com/TheBlueMatt) - 比特币核心开发者
+- [BM（Daniel Larimer）](https://x.com/bytemaster7) - EOS创始人
+- [xiaolai李笑来](https://x.com/xiaolai) - 知名币圈人物
+- [Justin Sun孙宇晨](https://x.com/justinsuntron) - 知名人物
+- [Elon Musk马斯克](https://x.com/elonmusk) - 知名人物
+- [CZ赵长鹏](https://x.com/cz_binance) - 币安创始人
+- [Hayden Adams](https://x.com/haydenzadams) - Uniswap 创始人
+- [VitalikButerin](https://x.com/VitalikButerin) - 以太坊创始人
+- [币圈慈善家](https://x.com/VitalikButerin) - 话痨博主，不构成投资建议
 
-**[夏六玥](https://x.com/0x6yue)**
-    多次抓住了土狗热点
-
-**[杀破狼 killthewolf.eth](https://x.com/Wolfy_XBT)**
-    22 岁男大学生因不甘于现状而进入币圈闯荡，耗费 2 年时间现已进化成铁头韭菜，喜欢给美女点赞，尽可能地保持真诚相待！
-
-**[陳威廉](https://x.com/William11Chan)**
-    曾经的微博@区块链威廉
-
-**[旧金山不是巴黎](https://x.com/jiujinshan2022)**
-    叼毛一根傻逼一个
-
-**[章鱼哥｜EnsVc.eth](https://x.com/zhanglabs)**
-    
-**[何币](https://x.com/hebi555)**
-    撸空投的大佬
-
-**[币圈慈善家](https://x.com/cryptocishanjia)**
-    话痨博主，土狗冲击者，傻逼韭菜，屌丝一个
-
-**[加密小师妹|Monica](https://x.com/Monica_xiaoM)**
-    陪你一起撸空投的加密小师妹Monica，主要提供热门空投操作教程
-
-**[Anbang](https://x.com/anbang_account)**
-    一个《只买不卖守币三十年》的长期定投实践者
-
-**[吴说区块链](https://x.com/wublockchain12)**
-    吴说中文推特，专业可信的行业新闻、优质深度内容推荐
-
-**[交易员小侠](https://x.com/Traderxiaoxia)**
-    交易员小侠推特
-
-**[PlanB](https://x.com/100trillionUSD)**
-    Bitcoin分析
-
-**[SBF](https://x.com/SBF_FTX)**
-    FTX交易所首席执行官
-
-**[凉兮大元帅](https://x.com/liangxihuigui)**
-    凉兮大元帅推特
-
-**[Spencer Bogart](https://x.com/CremeDeLaCrypto)**
-    华尔街背景币圈投资者
-
-**[Willy Woo](https://x.com/woonomic)**
-    比特币数据分析，估值大佬
-
-**[Matt Corallo](https://x.com/TheBlueMatt)**
-    比特币核心开发者
-
-**[BM（Daniel Larimer）](https://x.com/bytemaster7)**
-    EOS创始人
-
-**[xiaolai李笑来](https://x.com/xiaolai)**
-    xiaolai李笑来
-
-**[Justin Sun孙宇晨](https://x.com/justinsuntron)**
-    Justin Sun孙割孙宇晨
-
-**[Elon Musk马斯克](https://x.com/elonmusk)**
-    Elon Musk马斯克
-
-**[CZ赵长鹏](https://x.com/cz_binance)**
-    币安创始人赵长鹏CZ_Binance
-
-**[Hayden Adams](https://x.com/haydenzadams)**
-    Uniswap 创始人
-
-**[VitalikButerin](https://x.com/VitalikButerin)**
-    vitalik.eth以太坊创始人    
-
-**[币圈慈善家](https://x.com/VitalikButerin)**
-    话痨博主，不构成投资建议
 #### youtuber
-**[墨山猫 MØC](https://www.youtube.com/@CryptoMOC)**
-    活在区块链的猫🐈 
 
-**[腦哥 Chill塊鏈](https://www.youtube.com/@brainbrocrypto)**
-    我是一个介绍加密货币科普/投资的人
-
-**[狗狗币大师兄](https://www.youtube.com/@dogebigbrother)**
-    要做大家都能看得懂的视频！如果观众看不懂，视频做再好都没用
-
-**[225充电站](https://www.youtube.com/@225CDZ)**
-    希望有一天能够发财
-
-**[小天在这里](https://www.youtube.com/@XTZZL)**
-    本频道内容目前均是实仓操作做有价值的内容，从你看到我的视频开始
-
-**[BTV_Michael_币链何在](https://www.youtube.com/@BTV_CN)**
-    CEO of BitcoinTV. 25+ Years Media Veteran.
-
-**[以太坊教授幣哥](https://www.youtube.com/@ethbitbrother)**
-    数字货币全职交易员，擅长比特币趋势交易 | K线技术分析 | 套利，偶尔做一下日内短线交易
-    
-**[Vic TALK](https://www.youtube.com/@victalk6886)**
-    Web3热点项目追踪和经济模型硬核分析
-
-**[加密大漂亮](https://www.youtube.com/@GiantCutie-CH)**
-    资深Web3媒体人｜GC研习社发起人｜6年投研老韭菜｜BTC深挖者,频道专注Web3项目复盘，挖掘早期潜力Alpha项目，保姆级金矿撸毛教程分享，关注大漂亮，财富密码到你家
-
-**[mrblock 區塊先生](https://www.youtube.com/@mrblocktw)**
-    欢迎来到 mrblock.tw 区块先生 Youtube 频道，我们在这里探索 DeFi、GameFi、NFT 以及各种加密相关新闻
-
-**[笑笑](https://www.youtube.com/@xiaoxiao369)**
-    一个在币圈摸爬滚打多年的老家伙，见过比特币从“玩具钱”到“数字黄金”的全过程，也踩过山寨币的坑，吃过熊市的土
-
-### 门户网站
+- [墨山猫 MØC](https://www.youtube.com/@CryptoMOC) - 活在区块链的猫🐈
+- [腦哥 Chill塊鏈](https://www.youtube.com/@brainbrocrypto) - 加密货币科普/投资介绍
+- [狗狗币大师兄](https://www.youtube.com/@dogebigbrother) - 观众易懂的视频
+- [225充电站](https://www.youtube.com/@225CDZ) - 希望发财频道
+- [小天在这里](https://www.youtube.com/@XTZZL) - 实仓操作内容
+- [BTV_Michael_币链何在](https://www.youtube.com/@BTV_CN) - BitcoinTV CEO，资深媒体人
+- [以太坊教授幣哥](https://www.youtube.com/@ethbitbrother) - 数字货币交易员，趋势交易专家
+- [Vic TALK](https://www.youtube.com/@victalk6886) - Web3项目追踪及经济模型分析
+- [加密大漂亮](https://www.youtube.com/@GiantCutie-CH) - 资深Web3媒体人，专注项目复盘和教程
+- [mrblock 區塊先生](https://www.youtube.com/@mrblocktw) - DeFi、GameFi、NFT内容分享
+- [笑笑](https://www.youtube.com/@xiaoxiao369) - 老币圈玩家，经历过牛熊市
 
 ## 空投
+
 ### IDO/IEO
-**[Turtsat小乌龟](https://turtsat.io)**
-    Turtsat小乌龟是一个IDO平台
 
-**[Bybit-IDO平台](https://www.bybit.com/zh-MY/web3/ido)**
-    Bybit官方的IDO活动页面
-
-**[Copperlaunch](https://fjordfoundry.com/)**
-    Balancer 流动性引导池
-
-**[Gamestarter](https://igo.gamestarter.com/)**
-    Gamefi项目IDO平台
-
-**[GameFi ORG](https://gamefi.org/)**
-    Gamefi项目IDO平台
-
-**[Dove Metrics](https://messari.io/fundraising-data)**
-    加密筹款数据库
-
-**[Chain Broker](https://chainbroker.io/)**
-    IDO的信息聚合提供种子、私人、战略和IDO/IEO轮次的最新信息
-
-**[Seedify](https://launchpad.seedify.fund/)**
-    链游IDO平台
-
-**[Bounce](https://bounce.finance/)**
-    Bounce为拍卖平台跨链构建、IDO和交易各种资产、代币和NFT
-
-**[ICOdrops](https://icodrops.com/)**
-    独立的ICO(代币销售)数据库,这是一个专门聚焦于各个链上项目ICO信息聚合的网站
-
-**[Solanium](https://www.solanium.io/)**
-    基于SOL上的IDO平台
-
-**[CryptoRank](https://cryptorank.io/)**
-    打新信息平台
-
-**[Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/parachains/crowdloan)**
-    Ksm卡槽拍卖
-
-**[Polkadot](https://polkadot.js.org/apps/#/parachains/crowdloan)**
-    波卡卡槽拍卖
-
-**[Pinksale](https://www.pinksale.finance/)**
-    适合所有人的 Launchpad 协议！ 可以几秒钟内创建自己的代币和代币销售在 PinkSale 上创建的代币将在资源管理器网站上进行验证和发布
-
-**[Unicrypt](https://unicrypt.network/)**
-    可以自己发行代币并进行IDO ILO，多链DEFI工具
-
-**[daomaker](https://daomaker.com/)**
-    优质项目IDO平台
-
-**[Coinlist](https://coinlist.co/)**
-    优质项目IDO平台,币圈打新，合规代币融资平台
-
-**[CryptoRank](https://cryptorank.io/upcoming-ico)**
-    IDO/IEO/ICO数据聚合
-
-**[ICO Drops](https://icodrops.com)**
-    ICO（代币销售）数据库
+- [Turtsat小乌龟](https://turtsat.io) - IDO平台
+- [Bybit-IDO平台](https://www.bybit.com/zh-MY/web3/ido) - Bybit官方IDO活动
+- [Copperlaunch](https://fjordfoundry.com/) - Balancer流动性引导池
+- [Gamestarter](https://igo.gamestarter.com/) - Gamefi项目IDO平台
+- [GameFi ORG](https://gamefi.org/) - Gamefi项目IDO平台
+- [Dove Metrics](https://messari.io/fundraising-data) - 加密筹款数据库
+- [Chain Broker](https://chainbroker.io/) - IDO信息聚合
+- [Seedify](https://launchpad.seedify.fund/) - 链游IDO平台
+- [Bounce](https://bounce.finance/) - 跨链拍卖和IDO平台
+- [ICOdrops](https://icodrops.com/) - ICO数据库
+- [Solanium](https://www.solanium.io/) - SOL链IDO平台
+- [CryptoRank](https://cryptorank.io/) - 打新信息平台
+- [Kusama](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/parachains/crowdloan) - KSM卡槽拍卖
+- [Polkadot](https://polkadot.js.org/apps/#/parachains/crowdloan) - 波卡卡槽拍卖
+- [Pinksale](https://www.pinksale.finance/) - Launchpad协议，创建代币和销售
+- [Unicrypt](https://unicrypt.network/) - 多链DeFi工具，发行代币和IDO
+- [daomaker](https://daomaker.com/) - 优质项目IDO平台
+- [Coinlist](https://coinlist.co/) - 合规代币融资平台
+- [CryptoRank](https://cryptorank.io/upcoming-ico) - IDO/IEO/ICO数据聚合
+- [ICO Drops](https://icodrops.com) - ICO数据库
 
 ## DAO
+
 ### DAO组织
 
-
-
-
-**[MAMADao](https://mamadao.co/)**
-    基于 polygon 社区共同基金，旨在帮助建立Metaverse和DeFi游戏的未来
-
-**[Parcel.money](https://parcel.money/)**
-    可以用ETH或任何ERC-20代币支付给团体的资金管理DAO
-
-**[DAOMasters](https://www.daomasters.xyz/)**
-    DAO组织查询管理的相关工具
-
-**[Olympusdao](https://linktr.ee/olympusdao)**
-    旨在成为Defi世界美联储，成为Defi世界流动性服务商的Dao组织
-
-**[Snapshot](https://snapshot.org)**
-    一个基于快照技术并结合 IPFS 的链下治理投票平台
-
-**[Aragon](https://client.aragon.org/#/)**
-    迄今为止最大的创建DAO的平台
-
-**[Keep3r](https://keep3r.network/)**
-    去中心化的Keeper任务网络
-
-**[GasDao](https://www.gasdao.org/)**
-    GasDAO是一个去中心化自治组织
-
-**[Flamingodao](https://flamingodao.xyz/)**
-    一个去中心化创投公司
-
-**[Merit circle](https://meritcircle.io/)**
-    MeritCircle是一个去中心化自治组织（DAO），它投资于边玩边赚游戏，并通过将DAO的NFT资产借给玩家来利用NFT通过协作、教育和工具，玩家可以增加他们的游戏收入
-
-**[Everipedia](https://everipedia.org/)**
-    基于区块链技术的维基百科
-
-**[Illiquidjpegs](https://illiquidjpegs.xyz/)**
-    用缺乏流动性NFT图片去置换代币的DAO组织
-
-**[Opendao $SOS](https://www.theopendao.com/)**
-    一个以创作者和收藏者为核心，凝聚业内破局者的原生数字社区
-
-**[Nation3](https://nation3.org/)**
-    Web3 堆栈提供支持的云上国家和加密城市
-
-**[Breederdao](https://www.breederdao.io/)**
-    链游和元界的数字资产专业制造商
-
-**[Seedao](https://seedao.xyz/)**
-    探索基于Web3.0的内容生产关系
-
-**[OlympusDao](https://linktr.ee/olympusdao)**
-    建立独立于法定货币的加密储备货币的叙事
+- [MAMADao](https://mamadao.co/) - polygon社区共同基金，助力Metaverse和DeFi游戏未来
+- [Parcel.money](https://parcel.money/) - ETH或ERC-20代币支付给团体的资金管理DAO
+- [DAOMasters](https://www.daomasters.xyz/) - DAO组织查询管理工具
+- [Olympusdao](https://linktr.ee/olympusdao) - Defi世界流动性服务商的DAO
+- [Snapshot](https://snapshot.org) - 链下治理投票平台
+- [Aragon](https://client.aragon.org/#/) - 最大的DAO创建平台
+- [Keep3r](https://keep3r.network/) - 去中心化Keeper任务网络
+- [GasDao](https://www.gasdao.org/) - 去中心化自治组织
+- [Flamingodao](https://flamingodao.xyz/) - 去中心化创投公司
+- [Merit circle](https://meritcircle.io/) - 投资边玩边赚游戏的DAO
+- [Everipedia](https://everipedia.org/) - 区块链技术维基百科
+- [Illiquidjpegs](https://illiquidjpegs.xyz/) - 用缺乏流动性NFT图片置换代币的DAO
+- [Opendao $SOS](https://www.theopendao.com/) - 创作者和收藏者核心数字社区
+- [Nation3](https://nation3.org/) - 云上国家和加密城市
+- [Breederdao](https://www.breederdao.io/) - 链游和元界数字资产制造商
+- [Seedao](https://seedao.xyz/) - Web3.0内容生产关系探索
+- [OlympusDao](https://linktr.ee/olympusdao) - 独立于法币的加密储备货币
 
 ## 基础工具
+
 ### 出入金
 
+- [Verif Tools证件资料](www.verif.tools?gn=S8nw09FOBStV) - 身份证件资料生成
+- [香港实体银行卡](https://www.biquandh.com/3406.html) - 香港实体银行卡开卡分享
+- [Depay虚拟Card](https://depay.depay.one/web-app/register-h5?invitCode=354604&lang=zh-cn) - 可充值消费USDT的虚拟卡
+- [OneKey Card](https://card.onekey.so/?i=EZAMM3) - OneKey虚拟VISA卡，可充值消费USDT
+- [Bybit Card](https://www.bybit.com/zh-MY/cards/) - Bybit虚拟卡，可充值消费USDT，推荐消费返现
 
-**[Verif Tools证件资料](www.verif.tools?gn=S8nw09FOBStV)**
-    Verif Tools身份证件资料生成
-
-**[香港实体银行卡](https://www.biquandh.com/3406.html)**
-    香港实体银行卡开卡分享记录
-
-**[Depay虚拟Card](https://depay.depay.one/web-app/register-h5?invitCode=354604&amp;lang=zh-cn)**
-    Depay虚拟Card，可充值消费USDT
-
-**[OneKey Card](https://card.onekey.so/?i=EZAMM3)**
-    OneKey虚拟VISA卡，可充值消费USDT
-
-**[Bybit Card](https://www.bybit.com/zh-MY/cards/)**
-    Bybit虚拟卡，可充值消费USDT，可以某宝弄个假的德国账单地址即可开通，消费有返现非常推荐
 
 ## 社交媒体
 
