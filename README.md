@@ -37,6 +37,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
 
+![](https://i.imgur.com/XqUgkTO.png)
+
 ## 空投
 
 ### 币安Alpha
