@@ -38,11 +38,7 @@
 
 ![](https://imgur.com/MlRDjeU.png)
 
-![](https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/202506011739745.png)
-
 ![](https://imgur.com/H21EIP4.png)
-
-![](https://i.imgur.com/XqUgkTO.png)
 
 ## 空投
 
