@@ -17,6 +17,12 @@
 
 请注意，以上工具仅供学习使用若利用这些工具从事违法犯罪行为，我们概不承担任何法律责任
 
+## 监听聪明钱包
+
+- [@Debot](https://debot.ai?ref=240523)
+
+实时自动检测各个聪明人钱包的买入和卖出情况，跟着大佬们吃肉 
+
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.chouyi.pro/zh-hans/join/50253981) | [<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/) |
 |:---:|:---:|:---:|:---:|:---:|
