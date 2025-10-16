@@ -59,8 +59,9 @@
 活动介绍：https://www.0xnav.com/260.html
 
 ### 币安Alpha查询网站
-- [AlphaHub](https://bnalphahub.com/) - 免费多钱包币安alpha交易积分查询工具
 - [币安Alpha空投日历](https://alpha123.uk/zh/index.html) - 实时监控币安Alpha项目空投
+- [Alpha稳定度查询](https://alpha123.uk/zh/stability/) - 结合稳定度面板还有K线来刷交易量，减少被夹的风险
+- [AlphaHub](https://bnalphahub.com/) - 免费多钱包币安alpha交易积分查询工具
 - [胖大星-空投查询](https://pangdaxing.xyz/) - 实时监控币安Alpha项目空投
 - [Alpha Bot](https://new.alphabot.cm/) - Alpha交易量钱包查询
 - [Alpha.DOG](https://alpha.dog/) - Alpha交易量钱包查询
