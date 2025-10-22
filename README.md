@@ -602,7 +602,7 @@
 - [Matic/Polygon](https://polygon.technology) - Polygon官网
 - [Dogecoin](https://dogecoin.com) - Dogecoin官网
 
-# 量化机器人平台
+### 量化机器人平台
 - [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
 - [3commas](https://3commas.io/?c=tc1330119) - 量化交易平台，支持Tradeview和币安
 - [FMZ](https://www.fmz.com/sign-up/9991166) - 量化策略开发与交流社区
@@ -648,6 +648,45 @@
 - [Space ID](https://space.id/voyage/season-2?inviter=cheshirex.bnb) - .bnb域名注册
 - [DAS](https://www.did.id/) - .bit域名，基于区块链、分散和开源的账户系统
 - [Ens.tools](https://ens.tools/domains) - 查询ENS域名工具
+
+## 钱包
+
+### 软件钱包
+
+- [MetaMask](https://metamask.io/) - 浏览器扩展与移动端钱包，支持以太坊及 EVM 链，可连接 DApp 与 DeFi 平台。  
+- [Trust Wallet](https://trustwallet.com/) - 多链移动钱包，支持上百种区块链资产，内置 DApp 浏览器。  
+- [Coinbase Wallet](https://www.coinbase.com/wallet) - Coinbase 官方非托管钱包，支持多链资产与 NFT 管理。  
+- [Exodus](https://www.exodus.com/) - 桌面与移动端兼容的钱包，界面友好，集成交易与资产管理功能。  
+- [Electrum](https://electrum.org/) - 经典比特币软件钱包，轻量高效，适合资深用户使用。  
+- [Phantom](https://phantom.com/) - 主打 Solana 生态的钱包，支持 NFT 与多链管理，界面现代简洁。  
+- [MyEtherWallet (MEW)](https://www.myetherwallet.com/) - 以太坊专用钱包，支持 ERC-20 代币及智能合约交互。  
+- [MyCrypto](https://www.mycrypto.com/) - 开源以太坊钱包，支持多种 ERC-20 代币与离线操作。  
+- [ZenGo](https://zengo.com/) - 无助记词钱包，采用 MPC 安全技术，操作简单且安全性高。  
+- [Rainbow](https://rainbow.me/) - 以太坊生态钱包，专注于 NFT 和 DeFi，界面时尚易用。  
+- [TokenPocket](https://www.tokenpocket.pro/) - 多链支持的钱包，兼具移动端与桌面端，集成交易与 DApp 功能。  
+- [ImToken](https://www.token.im/) - 多链钱包，支持资产管理与 DApp 访问，界面清晰易用。  
+- [BitKeep (Bitget Wallet)](https://web3.bitget.com/) - 全球化多链钱包，支持上百条公链与跨链兑换。  
+- [OKX Wallet](https://www.okx.com/web3) - OKX 推出的多链钱包，支持 Web3、NFT 与去中心化交易。  
+- [SafePal](https://www.safepal.io/) - 币安投资的钱包品牌，支持软件与硬件结合的多链管理方案。  
+- [Atomic Wallet](https://atomicwallet.io/) - 支持300多种加密货币的桌面和移动端钱包，提供原子交换和Staking功能。
+
+### 硬件钱包
+
+- [Ledger](https://www.ledger.com/) - 全球知名的硬件钱包品牌，以安全性和多币种支持著称。  
+- [Trezor](https://trezor.io/) - 行业内首批硬件钱包品牌，提供高安全性与友好操作体验。  
+- [SafePal](https://www.safepal.io/) - 币安投资的硬件钱包，支持多链资产与离线签名功能。  
+- [OneKey](https://onekey.so/) - 国产多功能硬件钱包，支持多币种与跨平台使用。  
+- [BITHD](https://bithd.com/) - 便携式硬件钱包，专注冷存储解决方案，安全稳定。  
+- [Ballet](https://www.balletcrypto.com/zh/) - 实体冷钱包，操作简洁，无需电子设备即可使用。  
+- [Ellipal](https://www.ellipal.com/) - 全封闭式冷钱包，采用二维码签名，完全隔离网络连接。  
+- [Keystone](https://keyst.one/) - 支持多币种的安全硬件钱包，内置摄像头扫码签名。  
+- [CoolWallet](https://www.coolwallet.io/) - 银行卡形态的硬件钱包，轻薄便携，支持移动端蓝牙连接。  
+- [Tangem](https://tangem.com/) - NFC 实体卡钱包，支持手机一触连接，适合日常使用。  
+- [SecuX](https://secuxtech.com/) - 提供多型号硬件钱包，兼顾安全性与用户体验。  
+- [BitBox](https://shiftcrypto.ch/bitbox02/) - 瑞士出品的硬件钱包，注重隐私保护与开源安全。  
+- [GridPlus Lattice1](https://gridplus.io/) - 企业级安全芯片硬件钱包，配备触控屏与模块化设计。  
+- [CoolBitX](https://www.coolbitx.com/) - 专为移动端用户设计的蓝牙硬件钱包，安全便捷。  
+- [KeepKey](https://shapeshift.com/keepkey) - 经典硬件钱包之一，设计简约，支持主流币种与 ShapeShift 集成。  
 
 ## 新闻媒体
 
