@@ -27,6 +27,10 @@
 
 注于 meme 币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种。
 
+- [hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15)
+
+一个由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能。
+
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.chouyi.pro/zh-hans/join/50253981) | [<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/) |
 |:---:|:---:|:---:|:---:|:---:|
