@@ -9,7 +9,7 @@
 
 # **导航：** 
 
-[科学上网工具](#科学上网工具) | [交易所](#交易所) | [空投](#空投) | [Web3](#Web3) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [钱包](#钱包) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
+[科学上网工具](#科学上网工具) | [监听聪明钱包](#监听聪明钱包) | [AI交易系统](#AI交易系统) | [交易所](#交易所) | [空投](#空投) | [Web3](#Web3) | [交易](#交易) | [数据工具](#数据工具) | [巨鲸追踪](#巨鲸追踪) | [NFT](#nft) | [元宇宙](#元宇宙) | [钱包](#钱包) | [新闻媒体](#新闻媒体) | [空投](#空投) | [DAO](#dao) | [基础工具](#基础工具) | [跨链工具](#跨链工具) | [币圈名人](#币圈名人) | [IDO/IEO](#idoieo) | [DAO组织](#dao组织) | [出入金](#出入金) | [社交媒体](#社交媒体) | [电报群](#电报群)
 
 ## 科学上网工具
 
@@ -30,6 +30,20 @@
 - [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15)
 
 一个由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能。
+
+## AI交易系统
+
+- [@nof1-tracker](https://github.com/terryso/nof1-tracker)
+
+一个用于跟踪 nof1.ai AI Agent 交易信号并自动执行 Binance 合约交易的命令行工具。支持7个AI量化Agent的实时跟单，自动识别开仓、平仓、换仓和止盈止损信号。
+
+- [nofx](https://github.com/tinkle-community/nofx)
+
+一个基于 DeepSeek/Qwen AI 的加密货币期货自动交易系统，支持 Binance、Hyperliquid和Aster DEX交易所，多AI模型实盘竞赛，具备完整的市场分析、AI决策、自我学习机制和专业的Web监控界面。
+
+- [@AI-Trader](https://github.com/HKUDS/AI-Trader)
+
+这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
 
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.chouyi.pro/zh-hans/join/50253981) | [<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560) | [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/) |
