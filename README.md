@@ -994,6 +994,10 @@
 ### 中文电报群
 | 板块 / 分类 | Telegram                                                    | 标签         | 简介               |
 | ------- | ----------------------------------------------------------- | ---------- | ---------------- |
+| 讨论群     | [加密货币讨论群](https://t.me/jmhbgroup)                  | 媒体         | 加密货币中文讨论与公告      |
+| 新闻     | [币圈日报](https://t.me/bidaily)                  | 媒体         | 币圈日报-每日最前沿的币圈新闻资讯      |
+| 新闻     | [BlockBeats律动](https://t.me/blockbeats_news)                  | 媒体         | 专业的区块链研究机构与资讯平台      |
+| 新闻     | [金十数据](https://t.me/jin10shandian)                  | 媒体         | 一手时政&财经&币圈 数据24H极速推送     |
 | 交易所     | [Binance 中文群](https://t.me/BinanceChinese)                  | 官方         | 币安官方中文讨论与公告      |
 | 交易所     | [OKX 中文社区](https://t.me/OKXOfficialChinese)                 | 官方         | OKX 官方中文社群       |
 | 交易所     | [HTX 中文群](https://t.me/HuobiGlobalChinese)                  | 官方         | HTX（原 Huobi）中文社区 |
