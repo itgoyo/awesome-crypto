@@ -708,6 +708,7 @@
 
 #### twitter
 
+- [小田切让](https://x.com/itgoyo) - 币圈导航(0xnav.com)站长
 - [CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant) - 全球最大加密货币交易所创始人、亿万富翁赵长鹏
 - [何一](https://x.com/heyibinance) - 币圈一姐
 - [夏六玥](https://x.com/0x6yue) - 多次抓住土狗热点
