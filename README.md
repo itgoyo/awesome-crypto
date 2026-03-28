@@ -96,6 +96,7 @@
 ## Web3
 
 ### 基础知识
+- [Web3小白勇闯清迈](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTc4MTQ5NQ==#wechat_redirect) - 主要是一位博主DebugMind分享自己在Web3学习历程，整个过程很有意思。
 - [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html) - Web3.0 概念与发展梳理
 - [Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0) - Web3.0 相关概念百科
 - [Web3.0漫游指南](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc) - Web3.0 学习与探索指南
@@ -195,7 +196,6 @@
 - [Go语言的区块链开发指南](https://github.com/miguelmota/ethereum-development-with-go-book) - Go 语言以太坊开发指南（英文开源书）
 - [精通区块链](https://github.com/ethereumbook/ethereumbook) - 精通以太坊（英文开源书）
 
-
 ###  其他综合学习资源
 - [Continuum](https://continuum.xyz/) - 通过学习 Web3 基础获得 NFT 奖励的学习平台
 - [Dapp University](https://www.dappuniversity.com/) - 专注于 DApp 开发的系列教学视频
@@ -207,6 +207,8 @@
 - [OpenSea Blog](https://opensea.io/blog) - OpenSea 的官方博客
 - [Reddit Web3](https://www.reddit.com/r/web3/) - Reddit 上的 Web3 频道
 - [Medium Web3 Topics](https://medium.com/tag/web3) - Medium 上关于 Web3 的讨论
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/blockchain-development/) - 大量免费 Web3 教程、视频、实战，适合快速入门查阅
+- [Alchemy University](https://university.alchemy.com) - S→以太坊→智能合约→DApp 全栈，12 个实战项目（NFT 画廊、DEX 等）
 
 ### DApp & Solidity 智能合约学习资源
 - [CryptoZombies](https://cryptozombies.io/) - 通过游戏形式学习 Solidity，非常适合初学者
@@ -225,7 +227,16 @@
 - [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - 智能合约安全最佳实践
 - [smart-contracts](https://github.com/TokenMarketNet/smart-contracts) - 用于证券和公用事业代币的以太坊智能合约
 - [remix-project](https://github.com/ethereum/remix-project) - 用来开发、编译、部署智能合约的IDE
-
+- [HackQuest](https://www.hackquest.io/zh) - 免费课程 + 实战项目 + 链上证书，内置 IDE，零基础友好。
+- [OpenZeppelin Docs](https://docs.openzeppelin.com) - ERC20/721/1155 标准合约、安全库、代理升级、Defender 监控，开发标配
+- [OpenBuild](https://openbuild.xyz) - 中文 Web3 学习社区、课程、项目孵化、招聘
+- [登链社区](https://learnblockchain.cn) - Web3 中文教程、问答、公开课、肖臻《区块链技术与应用》
+- [Web3 钱包集成](https://docs.metamask.io) - 主流钱包集成方案、钱包连接、账户管理、交易签名
+- [Ethers.js 实战](https://docs.ethers.org) - Ethers.js 核心 API，DApp 前端开发实战
+- [Solidity 部署](https://book.getfoundry.sh/forge/deploying) - 合约部署流程、脚本编写、Etherscan 验证、测试网 / 主网部署
+- [Solidity 测试](https://hardhat.org/docs/testing) - 合约测试框架、测试用例编写、覆盖率、Fuzz 测试
+- [Solidity 错误处理](https://docs.soliditylang.org/en/latest/control-structures.html#error-handling
+) - 错误处理机制、区别、使用场景、Gas 消耗对比
 
 ### 官方文档
 - [Solidity 官方文档](https://docs.soliditylang.org/en/) - 智能合约编程语言
@@ -321,6 +332,7 @@
 - [优源码-区块链](https://netfreeman.com/) - 开源区块链项目及代码资源分享平台  
 - [链圈子](https://www.wwsww.cn/) - 区块链行业社交与资讯综合平台  
 - [Misttrack](https://misttrack.io/aml_risks/) - 余弦大佬推出的在线查黑U工具，如果不信任对方，可以先用这个网站查询对方钱包地址
+- [智能合约审计流程](https://updraft.cyfrin.io) - 合约审计全流程、工具、方法、报告、最佳实践
 
 
 
@@ -984,6 +996,130 @@
 |                      | [@mrjasonchoi](https://twitter.com/mrjasonchoi)             | Blockcrunch 播客 | 深度访谈播客摘要与投资观点 |
 |                      | [@ChineseWhales](https://twitter.com/ChineseWhales)         | 中国鲸观察 | 监控链上巨额转账与鲸鱼动向 |
 |                      | [@AltcoinGordon](https://twitter.com/AltcoinGordon)         | Bitget 分析 | 新币首发解析与市场热点评论 |
+| **华语圈补充（nation）** | [@KuiGas](https://x.com/KuiGas)                              | 空投分享 | 撸毛博主，聚焦空投与交互信息 |
+|                      | [@V1JeromeLoo](https://x.com/V1JeromeLoo)                   | 个人观点 | ChinachicNFT 创始人，加密投资者 |
+|                      | [@0xTodd](https://x.com/0x_Todd)                            | 个人观点 | 研究员，Nothing research 合伙人 |
+|                      | [@DujunX](https://x.com/DujunX)                             | 个人观点 | ABCDE 联创、火币前创始人之一 |
+|                      | [@Leoninweb3](https://x.com/Leoninweb3)                     | 个人观点 | CrossSpace、Kaboom 创始人 |
+|                      | [@star_okx](https://x.com/star_okx)                         | 币圈名人 | OKX CEO 观点输出 |
+|                      | [@EmberCN](https://x.com/EmberCN)                           | 链上分析师 | 链上数据分析与追踪 |
+|                      | [@ohyishi](https://x.com/ohyishi)                           | 个人观点 | OneKey 创始人 |
+|                      | [@yuyue_chris](https://x.com/yuyue_chris)                   | 投资人 | 加密投资者视角 |
+|                      | [@keyahayek](https://x.com/keyahayek)                       | 投资人 | 加密投资者视角 |
+|                      | [@jason_chen998](https://x.com/jason_chen998)               | 投资人 | 加密投资者、顾问 |
+|                      | [@Wolfy_XBT](https://x.com/Wolfy_XBT)                       | 加密领域博主 | 信息整理与数据分析 |
+|                      | [@cryptocishanjia](https://x.com/cryptocishanjia)           | 个人观点 | 话题活跃，偏土狗与热点叙事 |
+|                      | [@evilcos](https://x.com/evilcos)                           | 币圈名人 | 慢雾创始人，安全方向 |
+|                      | [@wangfeng_0128](https://x.com/wangfeng_0128)               | 个人观点 | 蓝港互动集团创始人 |
+|                      | [@gonbo](https://twitter.com/gonbo?s=20&t=KhFf5yRfokWUBjxZGw2YjQ) | 个人观点 | 币信 CEO |
+|                      | [@firstvip61](https://twitter.com/firstvip61)               | 个人观点 | 头等仓区块链研究院 |
+|                      | [@qklxsqf](https://twitter.com/qklxsqf)                     | NFT | NFT 推荐与抽奖活动 |
+|                      | [@nftsiy](https://twitter.com/nftsiy)                       | 个人观点 | 区块链资讯分享与项目分析 |
+|                      | [@bitfish1](https://twitter.com/bitfish1)                   | 个人观点 | 神鱼，F2Pool & Cobo 联创 |
+|                      | [@hebi555](https://twitter.com/hebi555)                     | 空投分享 | 空投交互、话题内容活跃 |
+|                      | [@0xSunNFT](https://twitter.com/0xSunNFT)                   | NFT | 0xSun group 创始人 |
+|                      | [@fishkiller](https://twitter.com/fishkiller)               | 个人观点 | 链闻创始人，早期 OG |
+|                      | [@0xAA_Science](https://twitter.com/0xAA_Science)           | 社群 | WTF 学院创始人 |
+|                      | [@NiqisLucky](https://twitter.com/NiqisLucky)               | NFT | luckycats 创始人 |
+|                      | [@BitCloutCat](https://twitter.com/BitCloutCat?s=20&t=U1i5aZZn2y3rgAfz7wXFAg) | Meme | Lasercat、TinFun 创始人 |
+|                      | [@LuYao_Trader](https://twitter.com/LuYao_Trader)           | 个人观点 | 交易员，市场观点输出 |
+|                      | [@nake13](https://twitter.com/nake13)                       | 媒体 | 转推技术与深度内容较多 |
+|                      | [@Wuhuoqiu](https://twitter.com/Wuhuoqiu)                   | 投资机构 | ABCDE Labs 投研合伙人 |
+|                      | [@cwweb3](https://twitter.com/cwweb3)                       | 个人观点 | DAO 相关观点输出 |
+|                      | [@Phyrex_Ni](https://twitter.com/Phyrex_Ni)                 | 个人观点 | Solar SG 发起人 |
+|                      | [@DFarm_club](https://twitter.com/DFarm_club)               | 个人观点 | Web3 游戏内容创作者 |
+|                      | [@BTCdayu](https://twitter.com/BTCdayu)                     | 个人观点 | 研究分享导向 |
+|                      | [@Chris_Defi](https://twitter.com/Chris_Defi)               | 社群 | DeFi 农耕与社群协作 |
+|                      | [@DeFiTeddy2020](https://twitter.com/DeFiTeddy2020)         | 社群 | AI + Web3 研究内容 |
+|                      | [@BTW0205](https://twitter.com/BTW0205)                     | 个人观点 | 比特吴 |
+|                      | [@wublockchain12](https://twitter.com/wublockchain12)       | 媒体 | 吴说中文推特账号 |
+|                      | [@liangfenxiaodao](https://twitter.com/liangfenxiaodao)     | 社群 | 凉粉小刀（168,168） |
+|                      | [@Wdahei](https://twitter.com/Wdahei)                       | 投资机构 | nikkor.eth |
+|                      | [@wsdxbz1](https://twitter.com/wsdxbz1)                     | 个人观点 | bigplayer.eth |
+|                      | [@William11Chan](https://twitter.com/William11Chan)         | 个人观点 | 曾经的区块链威廉 |
+|                      | [@alacheng](https://twitter.com/alacheng)                   | 个人观点 | AI、BTC、Web3 研究分享 |
+|                      | [@Super4DeFi](https://twitter.com/Super4DeFi)               | 个人观点 | 本末社区创始人 |
+|                      | [@realwuzhe](https://twitter.com/realwuzhe)                 | 个人观点 | 科技/工具/数字货币观点 |
+|                      | [@BitalkNews](https://twitter.com/BitalkNews)               | 媒体 | NFT、GameFi、Web3 资讯 |
+|                      | [@GWG_GameFi](https://twitter.com/GWG_GameFi)               | 社群 | 每日链游资讯 |
+|                      | [@hellosuoha](https://twitter.com/hellosuoha)               | 个人观点 | 热点追踪与市场观点 |
+|                      | [@0xCryptoChan](https://twitter.com/0xCryptoChan)           | 投研团队 | 链上数据记录与分析 |
+|                      | [@Mikemoo75197959](https://twitter.com/Mikemoo75197959)     | 社群 | Mike8848 社群内容 |
+|                      | [@daodao333](https://twitter.com/daodao333)                 | 个人观点 | DeFi 玩家 |
+|                      | [@CryptoXavierLee](https://twitter.com/CryptoXavierLee)     | 个人观点 | 行业思考与建设向内容 |
+|                      | [@Dahuzi_eth](https://twitter.com/Dahuzi_eth)               | 社群 | 胡子说币创始人 |
+|                      | [@0xcryptowizard](https://twitter.com/0xcryptowizard)       | 个人观点 | Metaverse 原住民视角 |
+|                      | [@YeruiZhang](https://twitter.com/YeruiZhang)               | 投资机构 | RUI 神，扫地僧内容整理 |
+|                      | [@c_littleshrimp](https://twitter.com/c_littleshrimp)       | 投研团队 | 交易学习与干货整理 |
+|                      | [@zlexdl](https://twitter.com/zlexdl)                       | 社群 | 空投教程总汇 |
+|                      | [@forgivenever](https://twitter.com/forgivenever)           | 技术社群 | CFX 社区、DeFi、NFT |
+|                      | [@FinanceYF3](https://twitter.com/FinanceYF3)               | 投研团队 | Notion 项目资料整理 |
+|                      | [@LeePima](https://twitter.com/LeePima)                     | 投资机构 | 项目估值观点分享 |
+|                      | [@BMANLead](https://twitter.com/BMANLead)                   | 投资机构 | ABCDE labs 联创 |
+| **国际补充（nation）** | [@realdogen](https://x.com/realdogen)                        | Meme | 偏叙事与持续跟进 |
+|                      | [@0xSweep](https://x.com/0xSweep)                           | Meme | 擅长 Alpha，长期跟踪 |
+|                      | [@dxrnelljcl](https://x.com/dxrnelljcl)                     | Meme | 偏打新风格 |
+|                      | [@CryptoThannos](https://x.com/CryptoThannos)              | Meme | 项目观点输出 |
+|                      | [@GG1nvestments](https://x.com/GG1nvestments)               | Meme | 低频长线 meme 观点 |
+|                      | [@Hugothewiz](https://x.com/Hugothewiz)                     | Meme | 低频高质量喊单 |
+|                      | [@beaniemaxi](https://x.com/beaniemaxi)                     | Meme | 文章质量较高 |
+|                      | [@KingKens4](https://x.com/KingKens4)                       | Meme | 小市值 meme 跟踪 |
+|                      | [@MustStopMurad](https://x.com/MustStopMurad)               | Meme | 头部 meme 影响者 |
+|                      | [@TrustlessState](https://x.com/TrustlessState)             | 技术大佬 | Bankless 联创 |
+|                      | [@dwr](https://x.com/dwr)                                   | 技术大佬 | farcaster 创始人 |
+|                      | [@mcuban](https://x.com/mcuban)                             | 投资人 | 知名投资人 |
+|                      | [@CL207](https://x.com/CL207)                               | NFT | echo CEO，NFT 艺术家 |
+|                      | [@nic__carter](https://x.com/nic__carter)                   | 比特币大佬 | Coin Metrics 联创 |
+|                      | [@samczsun](https://x.com/samczsun)                         | 技术大佬 | Security Alliance 创始人 |
+|                      | [@chamath](https://x.com/chamath)                           | 深度思考 | Social Capital 创始人 |
+|                      | [@0xfoobar](https://x.com/0xfoobar)                         | 技术大佬 | clusters/delegate 创始人 |
+|                      | [@alexisohanian](https://x.com/alexisohanian)               | 技术大佬 | Reddit 创始人 |
+|                      | [@loomdart](https://x.com/loomdart)                         | 技术大佬 | loomlocknft 创始人 |
+|                      | [@kevinrose](https://x.com/kevinrose)                       | 技术大佬 | True Ventures 合伙人 |
+|                      | [@hasufl](https://x.com/hasufl)                             | 个人观点 | 策略分享 |
+|                      | [@Melt_Dem](https://x.com/Melt_Dem)                         | 币圈名人 | CoinShares 首席战略官 |
+|                      | [@mdudas](https://x.com/mdudas)                             | 币圈名人 | The Block 创始人 |
+|                      | [@DeeZe](https://x.com/DeeZe)                               | 币圈名人 | We Do A Little 创始人 |
+|                      | [@iamDCinvestor](https://x.com/iamDCinvestor)               | 币圈名人 | 社交媒体影响者 |
+|                      | [@rewkang](https://x.com/Rewkang)                           | 币圈名人 | 资本合伙人、交易员 |
+|                      | [@blknoiz06](https://x.com/blknoiz06)                       | 币圈名人 | 交易员 |
+|                      | [@CryptoLucie](https://twitter.com/CryptoLucie)             | 个人观点 | 蓝筹 NFT 收藏家 |
+|                      | [@Darrenlautf](https://twitter.com/Darrenlautf)             | 个人观点 | The Daily Ape 创始人 |
+|                      | [@thebrettway](https://twitter.com/thebrettway?s=20&t=U1i5aZZn2y3rgAfz7wXFAg) | NFT | NFT 影响者与项目创始人 |
+|                      | [@kokid951](https://twitter.com/kokid951?s=20&t=jgI7OQHSnwXHIXXWmvIvxQ) | NFT | NFT 项目推广 |
+|                      | [@elliotrades](https://twitter.com/elliotrades?s=20&t=ZLXcsD_rfVCfIIVWOSDKnw) | NFT | NFT 影响者和加密 YouTuber |
+|                      | [@JRNYcrypto](https://twitter.com/JRNYcrypto?s=20&t=9NjaHM8x7uiZAsFYQ3AOTw) | NFT | Crypto & NFT 视频创作者 |
+|                      | [@phtevenstrong](https://twitter.com/phtevenstrong)         | DeFi 数据 | DeFi Dojo 创始人 |
+|                      | [@richardchen39](https://twitter.com/richardchen39)         | DeFi 数据 | 链上趋势与仪表板分享 |
+|                      | [@chriscantino](https://twitter.com/chriscantino)           | 加密作家 | 加密研究文章输出 |
+|                      | [@visualizevalue](https://twitter.com/visualizevalue)       | 图片干货 | 通过图像传递知识 |
+|                      | [@johnnywharris](https://twitter.com/johnnywharris)         | 视频干货 | 通过视频传递知识 |
+|                      | [@lexfridman](https://twitter.com/lexfridman)               | 加密领域博主 | 科技与加密相关访谈 |
+|                      | [@Kurz_Gesagt](https://twitter.com/Kurz_Gesagt)             | 视频干货 | 科普视频内容 |
+|                      | [@AdamMGrant](https://twitter.com/AdamMGrant)               | 图片干货 | NYT 畅销书作者 |
+|                      | [@Route2FI](https://twitter.com/Route2FI)                   | 加密作家 | 加密研究与文章输出 |
+|                      | [@AltcoinDailyio](https://twitter.com/AltcoinDailyio)       | 加密领域博主 | 加密热点内容输出 |
+|                      | [@shivsakhuja](https://twitter.com/shivsakhuja)             | 图片干货 | MagikLabs 联合创始人 |
+|                      | [@ARKInvest](https://twitter.com/ARKInvest)                 | 加密领域博主 | ARK Invest 官方 |
+|                      | [@rugpullfinder](https://twitter.com/rugpullfinder)         | 链上分析师 | Rug Pull 风险监测 |
+|                      | [@dpuellARK](https://twitter.com/dpuellARK)                 | 链上分析师 | 链上分析观点 |
+|                      | [@yassineARK](https://twitter.com/yassineARK)               | 链上分析师 | ARK 链上研究 |
+|                      | [@WClementeIII](https://twitter.com/WClementeIII)           | 链上分析师 | 链上与宏观分析 |
+|                      | [@danheld](https://twitter.com/danheld)                     | 比特币大佬 | 比特币教育与营销 |
+|                      | [@BTC_Archive](https://twitter.com/BTC_Archive)             | 比特币大佬 | Bitcoin Archive |
+|                      | [@LynAldenContact](https://twitter.com/LynAldenContact)     | 宏观专家 | Lyn Alden 宏观策略 |
+|                      | [@Nouriel](https://twitter.com/Nouriel)                     | 宏观专家 | 宏观经济评论 |
+|                      | [@MacroAlf](https://twitter.com/MacroAlf)                   | 宏观专家 | 前大型资管负责人 |
+|                      | [@RaoulGMI](https://twitter.com/RaoulGMI)                   | 宏观专家 | Real Vision 创始人 |
+|                      | [@woonomic](https://twitter.com/woonomic)                   | 宏观专家 | 链上宏观分析 |
+|                      | [@nntaleb](https://twitter.com/nntaleb)                     | 深度思考 | 风险与反脆弱思想 |
+|                      | [@paulg](https://twitter.com/paulg)                         | 深度思考 | 科技与创业思想 |
+|                      | [@naval](https://twitter.com/naval)                         | 深度思考 | 科技投资与哲学思考 |
+|                      | [@mindaoyang](https://twitter.com/mindaoyang)               | 技术社群 | 华人 DeFi OG，dForce |
+|                      | [@0xAikoDai](https://twitter.com/0xAikoDai)                 | 个人观点 | 游戏经济系统研究 |
+|                      | [@Irenezhao_](https://twitter.com/Irenezhao_)               | 个人观点 | SO-COL 创始人 |
+|                      | [@MapleLeafCap](https://twitter.com/MapleLeafCap)           | 投资机构 | Folius Ventures |
+|                      | [@IOSGVC](https://twitter.com/IOSGVC)                       | 投资机构 | Web3 投研机构 |
 
 ## 电报群
 - 使用小贴士
