@@ -996,7 +996,7 @@
 |                      | [@mrjasonchoi](https://twitter.com/mrjasonchoi)             | Blockcrunch 播客 | 深度访谈播客摘要与投资观点 |
 |                      | [@ChineseWhales](https://twitter.com/ChineseWhales)         | 中国鲸观察 | 监控链上巨额转账与鲸鱼动向 |
 |                      | [@AltcoinGordon](https://twitter.com/AltcoinGordon)         | Bitget 分析 | 新币首发解析与市场热点评论 |
-| **华语圈补充（nation）** | [@KuiGas](https://x.com/KuiGas)                              | 空投分享 | 撸毛博主，聚焦空投与交互信息 |
+|  | [@KuiGas](https://x.com/KuiGas)                              | 空投分享 | 撸毛博主，聚焦空投与交互信息 |
 |                      | [@V1JeromeLoo](https://x.com/V1JeromeLoo)                   | 个人观点 | ChinachicNFT 创始人，加密投资者 |
 |                      | [@0xTodd](https://x.com/0x_Todd)                            | 个人观点 | 研究员，Nothing research 合伙人 |
 |                      | [@DujunX](https://x.com/DujunX)                             | 个人观点 | ABCDE 联创、火币前创始人之一 |
@@ -1056,7 +1056,7 @@
 |                      | [@FinanceYF3](https://twitter.com/FinanceYF3)               | 投研团队 | Notion 项目资料整理 |
 |                      | [@LeePima](https://twitter.com/LeePima)                     | 投资机构 | 项目估值观点分享 |
 |                      | [@BMANLead](https://twitter.com/BMANLead)                   | 投资机构 | ABCDE labs 联创 |
-| **国际补充（nation）** | [@realdogen](https://x.com/realdogen)                        | Meme | 偏叙事与持续跟进 |
+|  | [@realdogen](https://x.com/realdogen)                        | Meme | 偏叙事与持续跟进 |
 |                      | [@0xSweep](https://x.com/0xSweep)                           | Meme | 擅长 Alpha，长期跟踪 |
 |                      | [@dxrnelljcl](https://x.com/dxrnelljcl)                     | Meme | 偏打新风格 |
 |                      | [@CryptoThannos](https://x.com/CryptoThannos)              | Meme | 项目观点输出 |
