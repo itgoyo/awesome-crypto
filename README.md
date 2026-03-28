@@ -5,7 +5,7 @@
 &nbsp;
 
 # 前言
-- **虚拟加密货币资源大全，欢迎访问全网最全的区块链与加密货币资源导航平台，专为币圈新手与爱好者打造，提供一站式信息整合服务，助您快速入门加密世界本站涵盖中心化交易所注册链接及官网入口，如欧易OKX、芝麻开门Gate、币安Binance等，囊括主流交易平台的注册引导与使用说明除此之外，还收录了实时数据分析工具、巨鲸资金流向追踪、NFT市场行情动态、优质空投信息、链上分析平台、DeFi协议解析、DAO社区运作、跨链桥接工具、安全加密钱包推荐等各类高频使用资源我们致力于为用户提供最新最全的币圈实用工具和学习资料，降低信息获取门槛欢迎社区成员积极反馈补充，共建开放共享的区块链知识库关注本站，开启您的加密资产投资之路，深入探索Web3的无限可能** 
+- **币圈导航虚拟加密货币资源大全，欢迎访问全网最全的区块链与加密货币资源导航平台，专为币圈新手与爱好者打造，提供一站式信息整合服务，助您快速入门加密世界本站涵盖中心化交易所注册链接及官网入口，如欧易OKX、芝麻开门Gate、币安Binance等，囊括主流交易平台的注册引导与使用说明除此之外，还收录了实时数据分析工具、巨鲸资金流向追踪、NFT市场行情动态、优质空投信息、链上分析平台、DeFi协议解析、DAO社区运作、跨链桥接工具、安全加密钱包推荐等各类高频使用资源我们致力于为用户提供最新最全的币圈实用工具和学习资料，降低信息获取门槛欢迎社区成员积极反馈补充，共建开放共享的区块链知识库关注本站，开启您的加密资产投资之路，深入探索Web3的无限可能** 
 
 # **导航：** 
 
@@ -57,7 +57,7 @@
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
-| Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
+| Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=4BUM7GXX)   |      Bitget交易所(减免40%手续费)邀请码：**4BUM7GXX**|
 | Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免40%手续费)邀请码：**USDTOKOK**|
 | 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
@@ -720,6 +720,7 @@
 
 #### twitter
 
+- [小田切让](https://x.com/itgoyo) - 币圈导航(0xnav.com)站长
 - [CZ赵长鹏](https://x.com/cz_binance?lang=zh-Hant) - 全球最大加密货币交易所创始人、亿万富翁赵长鹏
 - [何一](https://x.com/heyibinance) - 币圈一姐
 - [夏六玥](https://x.com/0x6yue) - 多次抓住土狗热点
@@ -1130,6 +1131,10 @@
 ### 中文电报群
 | 板块 / 分类 | Telegram                                                    | 标签         | 简介               |
 | ------- | ----------------------------------------------------------- | ---------- | ---------------- |
+| 讨论群     | [加密货币讨论群](https://t.me/jmhbgroup)                  | 媒体         | 加密货币中文讨论与公告      |
+| 新闻     | [币圈日报](https://t.me/bidaily)                  | 媒体         | 币圈日报-每日最前沿的币圈新闻资讯      |
+| 新闻     | [BlockBeats律动](https://t.me/blockbeats_news)                  | 媒体         | 专业的区块链研究机构与资讯平台      |
+| 新闻     | [金十数据](https://t.me/jin10shandian)                  | 媒体         | 一手时政&财经&币圈 数据24H极速推送     |
 | 交易所     | [Binance 中文群](https://t.me/BinanceChinese)                  | 官方         | 币安官方中文讨论与公告      |
 | 交易所     | [OKX 中文社区](https://t.me/OKXOfficialChinese)                 | 官方         | OKX 官方中文社群       |
 | 交易所     | [HTX 中文群](https://t.me/HuobiGlobalChinese)                  | 官方         | HTX（原 Huobi）中文社区 |
