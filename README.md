@@ -66,6 +66,7 @@
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 | Web3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) |
 | 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容  |
+| 监控实盘  | [@jiankongshipan](https://t.me/jiankongshipan)             | 实时跟踪熬鹰、予与、风寻等交易员的实盘监控，实时提醒。开仓、加仓、减仓、平仓（爆仓）都会实时提醒，没推送说明没有操作。  |
 
 ![](https://imgur.com/MlRDjeU.png)
 
