@@ -100,7 +100,7 @@
 ## Web3
 
 ### 基础知识
-- [Web3小白勇闯清迈](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTc4MTQ5NQ==#wechat_redirect) - 主要是一位博主DebugMind分享自己在Web3学习历程，整个过程很有意思。
+- [Web3小白勇闯清迈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxMDk2MDY0NQ==&action=getalbum&album_id=4291514454418046978&scene=126#wechat_redirect) - 主要是一位博主DebugMind分享自己在Web3学习历程，整个过程很有意思。
 - [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html) - Web3.0 概念与发展梳理
 - [Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0) - Web3.0 相关概念百科
 - [Web3.0漫游指南](https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc) - Web3.0 学习与探索指南
