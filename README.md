@@ -100,6 +100,7 @@
 ## Web3
 
 ### 基础知识
+- [《币安人生》](https://github.com/itgoyo/awesome-crypto/blob/master/books/%E5%B8%81%E5%AE%89%E4%BA%BA%E7%94%9F.pdf) - 加密货币传奇缔造者赵长鹏（CZ）的自传式传记，揭秘全球最大交易所创始人的波澜人生！
 - [Web3小白勇闯清迈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxMDk2MDY0NQ==&action=getalbum&album_id=4291514454418046978&scene=126#wechat_redirect) - 主要是一位博主DebugMind分享自己在Web3学习历程，整个过程很有意思。
 - [对Web3.0概念的梳理](https://rustmagazine.github.io/rust_magazine_2021/chapter_6/web3-part1.html) - Web3.0 概念与发展梳理
 - [Web3.0 Wiki](https://wiki.mbalib.com/zh-tw/Web_3.0) - Web3.0 相关概念百科
