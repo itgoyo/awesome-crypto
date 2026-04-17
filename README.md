@@ -58,11 +58,11 @@
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 | 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免20%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免30%手续费)邀请码：**66QLX94**|
+| 欧易OKX    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   |      欧易交易所(减免20%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
+| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=66QLX94)   |      ByBit交易所(减免20%手续费)邀请码：**66QLX94**|
 | Bitget    |   [https://www.bitget.com](https://www.bitget.com/zh-CN/referral/register?clacCode=4BUM7GXX)   |      Bitget交易所(减免20%手续费)邀请码：**4BUM7GXX**|
 | Gate.io    |   [https://www.gatesee.com](https://www.gatenode.xyz/share/USDTOKOK)   |     Gate.io交易所(减免20%手续费)邀请码：**USDTOKOK**|
-| 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
+| 火币    |   [https://www.htx.com](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223)   |      火币交易所(减免20%手续费)邀请码：**xpi6a223**|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免20%手续费)邀请码：**wIE7fPvG**|
 | Web3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) |
 | 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容  |
