@@ -1345,4 +1345,6 @@
 | 交易信号    | [CoinGape Signals](https://t.me/CoinGapeSignals)         | 信号         | CoinGape 交易      |
 | 交易信号    | [Smart Options](https://t.me/SmartOptions)               | 信号         | 机器人策略            |
 | 交易信号    | [ICO Drops Deals](https://t.me/ICO_Drops)                | 空投         | ICO/IDO 提醒       |
-| 交易信号    | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号         | Hopper 策略        |    
+| 交易信号    | [Cryptohopper Signals](https://t.me/CryptohopperSignals) | 信号         | Hopper 策略        |
+
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — perpetual futures exchange with 100+ pairs, up to 2001× leverage, zero fees.
