@@ -215,6 +215,7 @@
 - [Medium Web3 Topics](https://medium.com/tag/web3) - Medium 上关于 Web3 的讨论
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/blockchain-development/) - 大量免费 Web3 教程、视频、实战，适合快速入门查阅
 - [Alchemy University](https://university.alchemy.com) - S→以太坊→智能合约→DApp 全栈，12 个实战项目（NFT 画廊、DEX 等）
+- [web3vacancy](https://web3vacancy.com) - Web3 / 加密货币工作机会平台，聚合 DeFi、L2、钱包、安全等领域 2,400+ 实时职位，包含薪资数据、职业路径指南和面试资源
 
 ### DApp & Solidity 智能合约学习资源
 - [CryptoZombies](https://cryptozombies.io/) - 通过游戏形式学习 Solidity，非常适合初学者
