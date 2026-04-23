@@ -503,6 +503,7 @@
 - [CoinGecko](https://www.coingecko.com/zh) - token信息查询
 - [CoinMarketBook](https://coinmarketbook.cc) - 市场深度检查
 - [CoinMarketCap](https://coinmarketcap.com) - 大量项目详细信息查询，知名网站
+- [Hive Intelligence](https://hiveintelligence.xyz) - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk across every major chain through a managed MCP, REST API, or CLI.
 
 ### 链上数据
 - [Rdata](https://rdata.app) - 免费链上数据查询
