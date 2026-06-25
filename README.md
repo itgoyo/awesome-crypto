@@ -827,6 +827,7 @@
 - [Depay虚拟Card](https://depay.depay.one/web-app/register-h5?invitCode=354604&lang=zh-cn) - 可充值消费USDT的虚拟卡
 - [OneKey Card](https://card.onekey.so/?i=EZAMM3) - OneKey虚拟VISA卡，可充值消费USDT
 - [Bybit Card](https://www.bybit.com/zh-MY/cards/) - Bybit虚拟卡，可充值消费USDT，推荐消费返现
+- [CoinPing](https://t.me/CoinPingAlertBot) — 多条件加密货币价格提醒 Telegram Bot（阈值、24h 涨跌幅、跨所价差），免费版含 3 个提醒位。[GitHub](https://github.com/SeigeC/coinping-bot) (Go)
 
 
 ## 社交媒体
