@@ -538,6 +538,7 @@
 - [Bloxy](https://bloxy.info/zh/) - 区块链实时报告，DEX交易和套利分析
 - [DEFI-LAB](https://defi-lab.xyz/) - DeFi策略模拟器
 - [RugScreen](https://www.rugscreen.com/) - 土狗合约地址检查
+- [Cabal-Hunter](https://api.cabal-hunter.com/) - Solana cabal/rug 检测：追踪同源供资钱包、同区块 bundle 与协同砸盘，买入前判断你是否是 exit liquidity
 - [CypherHunter](https://www.cypherhunter.com/zh-hans/) - 项目及团队探索
 - [Notion](https://notionchina.co/guide/) - 笔记、任务、数据库和看板应用
 - [Ethereum Gas tracker](https://www.useweb3.xyz/gas?source=ethgas.watch&amp;referrer=ethgas.watch) - 聚合gas价格提要
