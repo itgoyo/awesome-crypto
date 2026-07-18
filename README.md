@@ -486,6 +486,7 @@
 - [DappRadar](https://dappradar.com/) - 项目分析、市场分析工具
 - [Apy](https://apy.vision/) - 多功能流动性池分析和收益率跟踪工具
 - [Parsec](https://parsec.finance/) - 专业分析图表工具，高度可配置市场数据流，包括交易、借贷和清算
+- [VaultVision](https://vaultvision.tech/vaults/scanner) - 免费只读的 Hyperliquid 金库扫描器，对比 TVL、风险、回撤、存款状态和入场质量；用于研究和手动跟踪，不自动执行交易
 - [Cryptoquant](https://cryptoquant.com/asset/btc/chart/exchange-flows) - 行情分析及链上数据分析
 - [Merv](https://merv.tech/) - defi链上数据分析
 - [Tokensniffer](https://tokensniffer.com/) - 土狗meme币信息查询
