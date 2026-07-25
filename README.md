@@ -46,6 +46,10 @@
 
 - [@AI-Trader](https://github.com/HKUDS/AI-Trader)
 
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha)
+
+An open-source AI crypto trading framework with ML ensemble (XGBoost, LightGBM, CatBoost). 3 bot types (AI, Grid, DCA), 12 exchanges via CCXT, Telegram bot control. [PyPI](https://pypi.org/project/deepalpha/) | [Demo](https://deepalphabot.com)
+
 这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
 
 ## 交易所
