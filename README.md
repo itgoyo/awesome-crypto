@@ -534,6 +534,7 @@
 - [Coindix](https://nanoly.com/) - 稳定币收益率监控
 
 ### 实用工具
+- [GetTronEnergy](https://gettronenergy.com/zh/) - 波场能量租赁，USDT转账手续费省约40%，附费用计算器和实时链上数据
 - [LoanScan](https://linen.app/interest-rates/) - 以太坊链上贷款数据和分析
 - [Bloxy](https://bloxy.info/zh/) - 区块链实时报告，DEX交易和套利分析
 - [DEFI-LAB](https://defi-lab.xyz/) - DeFi策略模拟器
