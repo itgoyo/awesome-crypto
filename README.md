@@ -1244,6 +1244,7 @@
 | 交易信号    | [FutureNet 中文](https://t.me/FutureNet_CN)                   | 信号         | 合约策略             |
 
 ### 英文电报群
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches an SPL mint or program ID and alerts on new transactions via Telegram, no API key needed.
 | 板块 / 分类 | Telegram                                                 | 标签         | 简介               |
 | ------- | -------------------------------------------------------- | ---------- | ---------------- |
 | 交易所     | [Binance Exchange](https://t.me/binanceexchange)         | 官方         | 全球 Binance 主群    |
