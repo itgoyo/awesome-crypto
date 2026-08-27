@@ -475,6 +475,7 @@
 ### 量化交易
 - [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
 - [3commas](https://3commas.io/?c=tc1330119) - 量化交易平台，支持Tradeview和币安
+- [Darkbot](https://darkbot.io/) - 云端量化交易机器人，支持网格、DCA、可视化策略、回测与模拟盘
 - [FMZ](https://www.fmz.com/sign-up/9991166) - 量化策略开发与交流社区
 
 
@@ -639,6 +640,7 @@
 ### 量化机器人平台
 - [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
 - [3commas](https://3commas.io/?c=tc1330119) - 量化交易平台，支持Tradeview和币安
+- [Darkbot](https://darkbot.io/) - 云端量化交易机器人，支持网格、DCA、可视化策略、回测与模拟盘
 - [FMZ](https://www.fmz.com/sign-up/9991166) - 量化策略开发与交流社区
 
 ## NFT
