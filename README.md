@@ -340,6 +340,7 @@
 - [链圈子](https://www.wwsww.cn/) - 区块链行业社交与资讯综合平台  
 - [Misttrack](https://misttrack.io/aml_risks/) - 余弦大佬推出的在线查黑U工具，如果不信任对方，可以先用这个网站查询对方钱包地址
 - [智能合约审计流程](https://updraft.cyfrin.io) - 合约审计全流程、工具、方法、报告、最佳实践
+- [DifiCalc](https://dificalc.com/) - DeFi收益比较、稳定币APY实时追踪、协议风险评级（A+-D）与免费收益计算器
 
 
 
