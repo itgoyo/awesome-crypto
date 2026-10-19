@@ -595,7 +595,7 @@
 ### 区块链浏览器
 - [Linea区块浏览器](https://lineascan.build) - Linea浏览器
 - [Combo测试网浏览器](https://combotrace-testnet.nodereal.io/) - Combo测试网浏览器
-- [Dogecoin区块浏览器](https://chain.so/DOGE) - Dogecoin浏览器
+- [Dogecoin区块浏览器](https://sochain.com/doge) - Dogecoin浏览器
 - [zkSync Era区块浏览器](https://explorer.zksync.io) - zkSync Era浏览器
 - [HECO SCAN](https://hecoinfo.com) - HECO链浏览器
 - [EOS浏览器](https://eostracker.io) - EOS浏览器
