@@ -504,6 +504,7 @@
 - [CoinGecko](https://www.coingecko.com/zh) - token信息查询
 - [CoinMarketBook](https://coinmarketbook.cc) - 市场深度检查
 - [CoinMarketCap](https://coinmarketcap.com) - 大量项目详细信息查询，知名网站
+- [ZEC View](https://zecview.com/) - Zcash 数据与资料站，按来源日期展示市场、屏蔽池及 ZCSH 基金观察，附方法论说明；非独立节点
 
 ### 链上数据
 - [Rdata](https://rdata.app) - 免费链上数据查询
