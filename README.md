@@ -471,6 +471,7 @@
 - [Dopex](https://www.dopex.io/zh) - 最大流动性与最小风险敞口的期权协议
 - [Openleverage](https://eth.openleverage.finance/app/referral/3868cf85) - 无许可保证金借贷交易协议
 - [dYdX](https://trade.dydx.exchange/portfolio/overview) - 去中心化合约交易平台
+- [Melbo](https://melbo.io/) - 现实世界事件的预测市场应用，基于 Polygon
 
 ### 量化交易
 - [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
