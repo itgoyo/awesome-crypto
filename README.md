@@ -341,7 +341,7 @@
 - [Aperiodic](https://aperiodic.io/) - 永续合约市场微观结构、流动性和订单流指标，以及原始成交和报价数据（Binance、OKX、Hyperliquid 等交易所），parquet 格式，预览数据免注册，完整数据收费
 - [Misttrack](https://misttrack.io/aml_risks/) - 余弦大佬推出的在线查黑U工具，如果不信任对方，可以先用这个网站查询对方钱包地址
 - [智能合约审计流程](https://updraft.cyfrin.io) - 合约审计全流程、工具、方法、报告、最佳实践
-
+- [VaultVision](https://vaultvision.tech/vaults/scanner) - 免费只读的 Hyperliquid 金库扫描器，对比 TVL、风险、回撤、存款状态和入场质量；用于研究和手动跟踪，不自动执行交易
 
 
 
