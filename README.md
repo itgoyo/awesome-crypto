@@ -573,6 +573,7 @@
 - [Whalestats](https://www.whalestats.com/) - 多链巨鲸钱包分析
 - [Datemish](https://datamish.com/) - 巨鲸地址监控
 - [dune](https://dune.com/0xBi/0xBi) - 巨鲸地址持仓情况跟踪
+- [Deep Blue Alpha](https://deepbluealpha.io/) - 免费实时以太坊巨鲸钱包追踪平台，监控20,000+巨鲸钱包，提供DEX交易买卖分类、净流量分析、信念评分和实时排行榜。无需注册。
 
 ### 地址监控
 - [GEMIT](https://www.v2.tools.gemit.app/) - 钱包监视和聪明钱监视
