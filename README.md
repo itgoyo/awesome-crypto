@@ -583,6 +583,7 @@
 - [jiedata](http://ep.jiedata.com/home) - 自编地址簿监控
 - [Xypher](https://xypher.io/) - 大单捕捉和社交热点监控
 - [Diting](https://www.diting.io/) - 钱包余额变动监控及推送
+- [FreezeRadar](https://freezeradar.com/) - USDT/USDC/PAXG 钱包黑名单与冻结风险查询：免费检查地址是否被发行方冻结、制裁风险及实时冻结/解冻动态
 
 ### 监控工具
 - [Bubble Maps](https://app.bubblemaps.io) - 项目持币地址交互气泡图
