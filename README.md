@@ -595,6 +595,7 @@
 
 ### 混币工具
 - [zk.money](https://zk.money/) - 以太坊隐私转账
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ### 区块链浏览器
 - [Linea区块浏览器](https://lineascan.build) - Linea浏览器
