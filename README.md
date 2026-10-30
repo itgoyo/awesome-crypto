@@ -569,6 +569,7 @@
 - [慢雾合约审计](https://www.slowmist.com/service-smart-contract-security-audit.html?lang=zh) - 合约审计服务
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
+- [TrueHold Calculators](https://www.truehold.xyz/calculators) - 无常损失、交易收益与平均成本、投资组合再平衡计算器，免注册
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
