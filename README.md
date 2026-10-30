@@ -505,6 +505,7 @@
 - [CoinGecko](https://www.coingecko.com/zh) - token信息查询
 - [CoinMarketBook](https://coinmarketbook.cc) - 市场深度检查
 - [CoinMarketCap](https://coinmarketcap.com) - 大量项目详细信息查询，知名网站
+- [LPSignal](https://lpsignal.app) - 集中流动性LP池按净APR（手续费减无常损失）排名，按价格区间回测，附开仓信号与公开战绩
 
 ### 链上数据
 - [Rdata](https://rdata.app) - 免费链上数据查询
