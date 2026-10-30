@@ -567,6 +567,7 @@
 - [慢雾合约审计](https://www.slowmist.com/service-smart-contract-security-audit.html?lang=zh) - 合约审计服务
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
+- [coinsentry](https://coinsentry.app) - 加密货币价格提醒、新币上线提醒和比特币周期指标提醒，推送到 Telegram、Discord、Slack、邮件或 Webhook，有免费套餐
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
