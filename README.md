@@ -433,6 +433,7 @@
 - [1inch](https://1inch.io) - 知名多链交易聚合平台
 - [Zapper](https://zapper.fi) - 聚合交易所和DeFi投资组合
 - [Dex.Guru](https://dex.guru) - DEX行情K线与交易平台
+- [Trnch](https://trnch.fun) - Robinhood Chain 链 meme 币交易终端与聚合器，含新币监控与貔貅/跑路检测（TIA），非托管
 
 ### 跨链工具
 - [Base多链跨链桥](https://app.squidrouter.com/) - Base多链跨链桥
