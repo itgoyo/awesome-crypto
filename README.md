@@ -708,6 +708,7 @@
 - [OKX Wallet](https://www.okx.com/web3) - OKX 推出的多链钱包，支持 Web3、NFT 与去中心化交易。  
 - [SafePal](https://www.safepal.io/) - 币安投资的钱包品牌，支持软件与硬件结合的多链管理方案。  
 - [Atomic Wallet](https://atomicwallet.io/) - 支持300多种加密货币的桌面和移动端钱包，提供原子交换和Staking功能。
+- [Oath Wallet](https://oathwallet.org/) - 免费开源的 iPhone 和 iPad 加密货币钱包，支持多链余额、交易记录、收发资产与只读地址管理。
 
 ### 硬件钱包
 
