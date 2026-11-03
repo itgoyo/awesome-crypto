@@ -570,6 +570,7 @@
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - 无常损失、交易收益与平均成本、投资组合再平衡计算器，免注册
+- [波场能量租赁中心](https://www.energyrenthub.com/) - 波场（TRON）能量闪租比价，成功率、响应速度和真实成交价由链上数据统计，降低 USDT（TRC20）转账手续费，免注册
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
