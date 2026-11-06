@@ -570,6 +570,7 @@
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - 无常损失、交易收益与平均成本、投资组合再平衡计算器，免注册
+- [CostDepth](https://www.costdepth.io/) - 交易所手续费与真实交易成本计算器：17家交易所的 VIP0 挂单/吃单费率，加上实时订单簿的点差和滑点，可输入任意下单金额，免注册
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
