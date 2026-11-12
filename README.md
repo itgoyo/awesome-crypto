@@ -386,6 +386,7 @@
 - [PooCoin](https://poocoin.app) - BSC链新币价格K线收录工具
 - [TradingView](https://www.tradingview.com) - 专业投资者行情查看和画线网站
 - [DEXTools](https://www.dextools.io/app) - 土狗币价浏览器，合约地址查询价格
+- [Alerta Chart](https://www.alertachart.com) - 多市场K线图表，加密货币免注册使用，含全部画图工具，另有免费的清算热力图和资金费率页面；股票、外汇需付费套餐
 
 ### DEX交易所
 - [GMGN](https://t.me/GMGN_sol_bot?start=i_732gCUit) - 链上交易和数据分析工具
