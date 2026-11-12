@@ -570,6 +570,7 @@
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - 无常损失、交易收益与平均成本、投资组合再平衡计算器，免注册
+- [crypto-exchange-fees](https://github.com/BestBerlin/crypto-exchange-fees) - 主流交易所现货/合约基础挂单吃单费率开放数据（JSON/CSV），每个数字附官方来源和核实日期，另带 AI 可调用的 MCP 查询服务
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
