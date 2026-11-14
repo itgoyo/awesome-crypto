@@ -796,6 +796,7 @@
 - [Polkadot](https://polkadot.js.org/apps/#/parachains/crowdloan) - 波卡卡槽拍卖
 - [Pinksale](https://www.pinksale.finance/) - Launchpad协议，创建代币和销售
 - [Unicrypt](https://unicrypt.network/) - 多链DeFi工具，发行代币和IDO
+- [ALPHA](https://alphapad.xyz) - 多链代币发射平台，支持 10 条链：Solana、Base、BNB Chain、Ethereum、Robinhood Chain、Arc、Monad、Avalanche、Arbitrum 和 Polygon，可用原生币、稳定币、股票代币或黄金定价
 - [daomaker](https://daomaker.com/) - 优质项目IDO平台
 - [Coinlist](https://coinlist.co/) - 合规代币融资平台
 - [CryptoRank](https://cryptorank.io/upcoming-ico) - IDO/IEO/ICO数据聚合
