@@ -512,6 +512,7 @@
 - [Rdata](https://rdata.app) - 免费链上数据查询
 - [Glassnode](https://glassnode.com/) - 强大的链上数据分析及周报
 - [Coinglass](https://www.coinglass.com) - 合约持仓、灰度持仓、资金费率
+- [Charts](https://chartsgg.com/zh-cn/) - 在线K线图：清算热力图、资金费率、持仓量、多空比、Hyperliquid巨鲸追踪，支持Pine Script与MQL指标
 - [CryptoBubbles](https://cryptobubbles.net) - 前500加密货币活跃度气泡图
 - [Pharos](https://pharos.watch) - 开源稳定币分析仪表盘，追踪挂钩压力、DEX流动性、安全评分和黑名单事件
 
