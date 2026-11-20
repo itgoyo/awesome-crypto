@@ -342,6 +342,7 @@
 - [Misttrack](https://misttrack.io/aml_risks/) - 余弦大佬推出的在线查黑U工具，如果不信任对方，可以先用这个网站查询对方钱包地址
 - [智能合约审计流程](https://updraft.cyfrin.io) - 合约审计全流程、工具、方法、报告、最佳实践
 - [VaultVision](https://vaultvision.tech/vaults/scanner) - 免费只读的 Hyperliquid 金库扫描器，对比 TVL、风险、回撤、存款状态和入场质量；用于研究和手动跟踪，不自动执行交易
+- [Coinpred](https://coinpred.com/) - AI 短线 BTC/ETH 方向分析（五档方向、概率与置信度）、Kronos K 线预测，以及公开可查的 TradingView 信号战绩。每日有免费额度。
 
 
 
