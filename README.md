@@ -554,6 +554,7 @@
 - [Forexlive](https://www.forexlive.com/EconomicCalendar) - 经济日历
 - [Rabbithole](https://app.rabbithole.gg/quests) - Web3任务平台
 - [Defieye](https://chaineye.tools/cexFee) - 提币手续费查询
+- [AsiaFee 亚洲能量](https://asiafee.com/) - TRON 能量租赁，降低 USDT（TRC20）转账手续费；附免费的手续费计算器和地址能量、带宽查询
 - [Cryptomiso](https://www.cryptomiso.com/) - Github活跃度数据
 - [Discord-Translator](https://betterdiscord.app/plugin/Translator) - Discord翻译插件
 - [Intotheblock](https://app.intotheblock.com/) - 代币持币地址图表分析
