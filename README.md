@@ -433,6 +433,7 @@
 - [1inch](https://1inch.io) - 知名多链交易聚合平台
 - [Zapper](https://zapper.fi) - 聚合交易所和DeFi投资组合
 - [Dex.Guru](https://dex.guru) - DEX行情K线与交易平台
+- [HelmSwap](https://helmswap.com/) - 非托管多链兑换终端（网站与 API），返回报价和未签名交易，由用户在自己的钱包中签名
 
 ### 跨链工具
 - [Base多链跨链桥](https://app.squidrouter.com/) - Base多链跨链桥
