@@ -585,6 +585,7 @@
 - [jiedata](http://ep.jiedata.com/home) - 自编地址簿监控
 - [Xypher](https://xypher.io/) - 大单捕捉和社交热点监控
 - [Diting](https://www.diting.io/) - 钱包余额变动监控及推送
+- [HL 风险哨兵](https://hl-risk-watch.pages.dev/) - 免费只读，贴一个公开 Hyperliquid 地址，看每个仓位离爆仓多远和资金费消耗，不连钱包、不要私钥，AI 代理制作
 
 ### 监控工具
 - [Bubble Maps](https://app.bubblemaps.io) - 项目持币地址交互气泡图
