@@ -321,6 +321,7 @@
 - [金色财经](https://www.jinse.cn) - 客观、公正、全面的资讯平台，紧盯互联网技术落地应用、突发事件、热门话题、政策跟进等  
 - [CoinMarketCap](https://coinmarketcap.com/zh/) - 最全面的加密货币数据分析平台  
 - [Coingecko](https://www.coingecko.com/) - 提供项目评分和综合排序，便于评估项目  
+- [CoinBoss](https://www.coinboss.com/) - 实时加密货币衍生品数据看板，覆盖爆仓、持仓量、资金费率、多空比等指标，聚合主流交易所（币安、OKX、Bybit、Bitget、Gate等）数据  
 - [比特币巨鲸追踪](https://bitinfocharts.com/zh/top-100-richest-bitcoin-addresses.html) - 追踪比特币前100富有地址  
 - [以太坊钱包追踪](https://www.whalestats.com/) - 前1000大以太坊钱包持仓分析  
 - [NFTGo](https://nftgo.io) - NFT巨鲸追踪工具，分析交易趋势  
