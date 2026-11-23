@@ -67,6 +67,7 @@
 | Web3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) |
 | 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容  |
 | 监控实盘  | [@jiankongshipan](https://t.me/jiankongshipan)             | 实时跟踪熬鹰、予与、风寻等交易员的实盘监控，实时提醒。开仓、加仓、减仓、平仓（爆仓）都会实时提醒，没推送说明没有操作。  |
+| [RustChain](https://github.com/Scottcjn/Rustchain) | Proof-of-Antiquity 区块链，奖励老旧硬件（PowerPC、SPARC、68K）挖矿 | AI Agent 经济
 
 ![](https://imgur.com/MlRDjeU.png)
 
