@@ -570,6 +570,7 @@
 - [Croco Finance](https://croco.finance) - 无常损失计算器
 - [Honeypot Detector for BSC](https://www.honeypot.is) - BSC土狗检测工具
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - 无常损失、交易收益与平均成本、投资组合再平衡计算器，免注册
+- [ChainCalc Zero](https://devbox-zero-ops.github.io/chaincalc-zero/) - 纯浏览器本地 DeFi 数学计算器：Uniswap V2/V3 无常损失与回本天数模拟、Gas 损耗净 APY 复利测算及止损仓位盈亏比计算，免连接钱包、零追踪、MIT 开源
 
 ### 巨鲸追踪
 - [Prysm](https://www.prysm.xyz/) - 钱包地址盈利和操作监控
