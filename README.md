@@ -514,6 +514,7 @@
 - [Coinglass](https://www.coinglass.com) - 合约持仓、灰度持仓、资金费率
 - [CryptoBubbles](https://cryptobubbles.net) - 前500加密货币活跃度气泡图
 - [Pharos](https://pharos.watch) - 开源稳定币分析仪表盘，追踪挂钩压力、DEX流动性、安全评分和黑名单事件
+- [liquidation.lol](https://liquidation.lol) - 免费实时爆仓数据：Binance、OKX、Bybit、Bitget，每日爆仓回顾，Hyperliquid 巨鲸持仓与强平距离
 
 ### 指数查询
 - [Google Trends](https://trends.google.com/trends) - 谷歌搜索趋势
