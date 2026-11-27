@@ -473,6 +473,7 @@
 - [Openleverage](https://eth.openleverage.finance/app/referral/3868cf85) - 无许可保证金借贷交易协议
 - [dYdX](https://trade.dydx.exchange/portfolio/overview) - 去中心化合约交易平台
 - [Melbo](https://melbo.io/) - 现实世界事件的预测市场应用，基于 Polygon
+- [OursMeme](https://ours.meme) - BNB Chain 上人人可几分钟开通 BTC/ETH/黄金永续盘口的 0 手续费 Perp Launchpad，交易者 0 手续费且市场收益直分持币人、LP 或创建者（原生支持 48+50 工具 AI Agent MCP 与币安 Agentic Wallet）
 
 ### 量化交易
 - [TVCbot](https://www.tvcbot.com/aff.php?aff=285) - 简单易用的量化机器人平台
