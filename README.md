@@ -507,6 +507,7 @@
 - [CoinMarketBook](https://coinmarketbook.cc) - 市场深度检查
 - [CoinMarketCap](https://coinmarketcap.com) - 大量项目详细信息查询，知名网站
 - [LPSignal](https://lpsignal.app) - 集中流动性LP池按净APR（手续费减无常损失）排名，按价格区间回测，附开仓信号与公开战绩
+- [Live Crypto Screener](https://livecryptoscreener.com) - 免费实时行情看板（英文）：前100币种约每9秒更新，相对比特币涨跌、距历史高点、恐慌贪婪指数、BTC市占率、减半倒计时与价格提醒，无需注册
 
 ### 链上数据
 - [Rdata](https://rdata.app) - 免费链上数据查询
