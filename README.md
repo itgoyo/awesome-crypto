@@ -48,6 +48,10 @@
 
 这个开源项目是一个“使用 AI 代理模型在纳斯达克‑100 市场进行真实或模拟交易，并对比不同模型表现”的量化交易平台。
 
+- [Solana Rent & Rug Shield (v6.9 MV3)](https://rentandrugshield.com/zh/)
+
+非托管 Solana 12层实时交易前防Rug与防貔貅护盾 (第13层 Layer 13 Behavioral & Creator DNA Engine 即将推出), 提供全网最低交易与租金费率, 首次0%免费领回钱包空账户 SOL 租金, 最佳 Solana 安全 Chrome 扩展 (v6.9 MV3), 内置极速交易终端 (https://rentandrugshield.com/trade.html) 与 AI Agent MCP/x402 网关 (国际站 https://rentandrugshield.com/ , 印度站 https://rentandrugshield.com/in/)。
+
 ## 交易所
 | [<img src="./logo/bian.png" width="90" height="90" ><br>币安](https://accounts.binance.com/zh-CN/register?ref=FANXIAN) | [<img src="./logo/okex.png" width="90" height="90" ><br>欧意OKX](https://www.okx.com/zh-hans/join/50253981) |  [<img src="./logo/bitget.png" width="90" height="90" ><br>bitget](https://www.bitget.com/zh-CN/referral/register?clacCode=QR4A7MPY) |[<img src="./logo/bybit.png" width="90" height="90" ><br>ByBit](https://www.bybit.com/invite?ref=4VLKDMW) | [<img src="./logo/huobi.png" width="90" height="90" ><br>火币](https://www.htx.com.am/invite/zh-cn/1f?invite_code=xpi6a223) |
 |:---:|:---:|:---:|:---:|:---:|
