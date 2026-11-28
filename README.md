@@ -593,6 +593,7 @@
 - [Miningpoolstats](https://miningpoolstats.stream/) - POW币算力矿池统计
 - [2miners](https://2miners.com/zh) - 各币即时算力列表
 - [Token.unlocks](https://token.unlocks.app/) - 代币解锁日历
+- [CoinPriceAlert](https://coinpricealert.io/) - 加密货币、美股、黄金价格提醒，推送/Telegram/邮件通知，App关闭也能收到
 
 ### 混币工具
 - [zk.money](https://zk.money/) - 以太坊隐私转账
